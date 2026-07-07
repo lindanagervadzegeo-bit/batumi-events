@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ბათუმის ივენთები — ზაფხული 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy: #0E2A32;
+    --navy-deep: #081A20;
+    --teal: #123B44;
+    --coral: #FF6B4A;
+    --gold: #E8B34A;
+    --sand: #F2EAD8;
+    --sand-dim: #C9C0AC;
+    --line: rgba(242,234,216,0.14);
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background: var(--navy);
+    color: var(--sand);
+    font-family:'Manrope', sans-serif;
+    min-height:100vh;
+  }
+  .display{ font-family:'Big Shoulders Display', sans-serif; text-transform:uppercase; letter-spacing:0.02em; }
+
+  /* ---------- HERO / MARQUEE ---------- */
+  .hero{
+    position:relative;
+    overflow:hidden;
+    background: radial-gradient(ellipse at 20% -10%, #1c4a55 0%, var(--navy) 55%), var(--navy);
+    border-bottom: 1px solid var(--line);
+    padding: 28px 0 0 0;
+  }
+  .hero-inner{ max-width:1100px; margin:0 auto; padding: 18px 24px 30px; }
+  .eyebrow{
+    color: var(--gold);
+    font-size: 13px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 0 0 10px 0;
+  }
+  .hero h1{
+    font-size: clamp(38px, 7vw, 76px);
+    line-height: 0.92;
+    margin: 0 0 14px 0;
+    color: var(--sand);
+  }
+  .hero h1 span{ color: var(--coral); }
+  .hero p{
+    max-width: 560px;
+    color: var(--sand-dim);
+    font-size: 16px;
+    line-height: 1.55;
+    margin: 0;
+  }
+
+  .more-sources{
+    margin-top: 22px;
+    display:flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items:center;
+  }
+  .more-sources span{
+    color: var(--sand-dim);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+  .more-sources a{
+    display:inline-flex;
+    align-items:center;
+    gap: 6px;
+    color: var(--navy-deep);
+    background: var(--gold);
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 13.5px;
+    padding: 9px 16px;
+    border-radius: 999px;
+    border: 1px solid var(--gold);
+    transition: transform .12s ease, background .12s ease, box-shadow .12s ease;
+    box-shadow: 0 2px 0 rgba(0,0,0,0.15);
+  }
+  .more-sources a:hover{
+    background: var(--coral);
+    border-color: var(--coral);
+    color: var(--navy-deep);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 0 rgba(0,0,0,0.18);
+  }
+  .more-sources a:nth-child(3){
+    background: transparent;
+    color: var(--gold);
+    border: 1px solid var(--gold);
+    box-shadow: none;
+  }
+  .more-sources a:nth-child(3):hover{
+    background: var(--gold);
+    color: var(--navy-deep);
+  }
+
+  .marquee{
+    margin-top: 26px;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    background: var(--navy-deep);
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+  }
+  .marquee-track{
+    display:inline-block;
+    padding: 12px 0;
+    animation: scroll 38s linear infinite;
+  }
+  .marquee-track span{
+    display:inline-block;
+    font-family:'Big Shoulders Display', sans-serif;
+    text-transform:uppercase;
+    font-size: 17px;
+    letter-spacing:0.04em;
+    color: var(--sand-dim);
+    padding: 0 26px;
+    border-right: 1px solid var(--line);
+  }
+  .marquee-track span b{ color: var(--gold); font-weight:800; }
+  @keyframes scroll{
+    from{ transform: translateX(0); }
+    to{ transform: translateX(-50%); }
+  }
+  @media (prefers-reduced-motion: reduce){
+    .marquee-track{ animation: none; }
+  }
+
+  /* ---------- CONTROLS ---------- */
+  .controls{
+    max-width:1100px;
+    margin: 0 auto;
+    padding: 26px 24px 0;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background: linear-gradient(var(--navy) 82%, transparent);
+  }
+  .search-row{
+    display:flex;
+    gap:10px;
+    margin-bottom: 14px;
+    flex-wrap: wrap;
+  }
+  .search-row input{
+    flex: 1 1 260px;
+    background: var(--teal);
+    border: 1px solid var(--line);
+    color: var(--sand);
+    padding: 12px 16px;
+    border-radius: 8px;
+    font-family: 'Manrope', sans-serif;
+    font-size: 15px;
+  }
+  .search-row input::placeholder{ color: var(--sand-dim); }
+  .search-row input:focus{ outline: 2px solid var(--coral); outline-offset: 1px; }
+
+  .chip-row{ display:flex; gap:8px; flex-wrap:wrap; margin-bottom: 14px; }
+  .chip{
+    background: transparent;
+    border: 1px solid var(--line);
+    color: var(--sand-dim);
+    padding: 8px 14px;
+    border-radius: 999px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all .15s ease;
+  }
+  .chip:hover{ border-color: var(--gold); color: var(--sand); }
+  .chip.active{
+    background: var(--coral);
+    border-color: var(--coral);
+    color: var(--navy-deep);
+  }
+  .chip:focus-visible{ outline:2px solid var(--gold); outline-offset:2px; }
+
+  .date-row{ display:flex; gap:8px; flex-wrap:wrap; margin-bottom: 20px; }
+  .date-row .chip.active{ background: var(--gold); border-color: var(--gold); }
+
+  .count-line{
+    color: var(--sand-dim);
+    font-size: 13px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--line);
+  }
+  .count-line b{ color: var(--gold); }
+
+  /* ---------- GRID / TICKET CARDS ---------- */
+  .grid{
+    max-width:1100px;
+    margin: 0 auto;
+    padding: 22px 24px 60px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  .ticket{
+    position: relative;
+    background: var(--teal);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    display: flex;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    transition: transform .15s ease, border-color .15s ease;
+  }
+  .ticket:hover{ transform: translateY(-3px); border-color: var(--gold); }
+  .ticket:focus-visible{ outline:2px solid var(--gold); outline-offset:2px; }
+
+  .ticket-date{
+    flex: 0 0 78px;
+    background: var(--navy-deep);
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    position: relative;
+  }
+  .ticket-date .day{
+    font-family:'Big Shoulders Display', sans-serif;
+    font-size: 34px;
+    font-weight: 800;
+    color: var(--gold);
+    line-height: 1;
+  }
+  .ticket-date .mon{
+    font-size: 12px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--sand-dim);
+    margin-top: 4px;
+  }
+  /* perforation notches */
+  .ticket-date::after{
+    content:"";
+    position:absolute;
+    right:-9px;
+    top:50%;
+    transform: translateY(-50%);
+    width:18px; height:18px;
+    background: var(--navy);
+    border-radius:50%;
+    box-shadow: 0 -34px 0 -2px var(--navy), 0 34px 0 -2px var(--navy),
+                0 -68px 0 -4px var(--teal), 0 68px 0 -4px var(--teal);
+  }
+  .ticket-body{
+    flex:1;
+    padding: 14px 16px 14px 22px;
+    display:flex;
+    flex-direction:column;
+    gap: 6px;
+    min-width: 0;
+  }
+  .ticket-cat{
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: var(--coral);
+  }
+  .ticket-title{
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.25;
+    color: var(--sand);
+  }
+  .ticket-meta{
+    font-size: 13px;
+    color: var(--sand-dim);
+    display:flex;
+    gap:6px;
+    align-items:center;
+  }
+  .ticket-arrow{
+    margin-left:auto;
+    color: var(--gold);
+    font-size: 18px;
+    align-self:center;
+    padding-right: 10px;
+  }
+
+  .empty{
+    text-align:center;
+    padding: 60px 20px;
+    color: var(--sand-dim);
+  }
+  .empty b{ color: var(--gold); }
+
+  footer{
+    max-width:1100px;
+    margin:0 auto;
+    padding: 20px 24px 40px;
+    border-top: 1px solid var(--line);
+    color: var(--sand-dim);
+    font-size: 13px;
+    line-height: 1.7;
+  }
+  footer a{ color: var(--gold); }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">ბათუმი · ზაფხული 2026</p>
+    <h1 class="display">რა ხდება <span>ბათუმში?</span></h1>
+    <p>კონცერტები, თეატრი, კლუბები, საბავშვო შოუები და ფესტივალები — ყველა ღონისძიება ერთ ადგილას, ერთი ზაფხულის განმავლობაში.</p>
+    <div class="more-sources">
+      <span>მეტი ივენთისა და ბილეთისთვის:</span>
+      <a href="https://tkt.ge/batumi" target="_blank" rel="noopener">TKT.ge — ზღვის სექცია ↗</a>
+      <a href="https://batumievents.com/" target="_blank" rel="noopener">Batumi Events (აჭარის ტურიზმი) ↗</a>
+    </div>
+  </div>
+  <div class="marquee">
+    <div class="marquee-track" id="marqueeTrack"></div>
+  </div>
+</div>
+
+<div class="controls">
+  <div class="search-row">
+    <input type="text" id="searchInput" placeholder="მოძებნე ივენთი, სახელი ან ადგილი...">
+  </div>
+  <div class="chip-row" id="categoryChips"></div>
+  <div class="date-row" id="dateChips"></div>
+  <div class="count-line" id="countLine"></div>
+</div>
+
+<div class="grid" id="eventsGrid"></div>
+
+<footer>
+  MVP ვერსია — მონაცემები ხელით შეგროვებულია საჯარო წყაროებიდან (InfoBatumi.ge, Tkt.ge, Batumievents.com) ივნისი–აგვისტოს 2026 პერიოდისთვის.
+  დეტალებისა და ბილეთებისთვის თითოეული ბარათი მიგიყვანთ ორიგინალ წყაროზე.
+  შემდეგი ეტაპი: ავტომატური, ყოველდღიური განახლება ამ წყაროებიდან.
+</footer>
+
+<script>
+let EVENTS = [];
+
+async function loadEvents(){
+  const grid = document.getElementById('eventsGrid');
+  try{
+    const resp = await fetch('events.json', {cache: 'no-store'});
+    if(!resp.ok) throw new Error('HTTP ' + resp.status);
+    EVENTS = await resp.json();
+  }catch(e){
+    console.error('ივენთების ჩატვირთვის შეცდომა:', e);
+    grid.innerHTML = `<div class="empty" style="grid-column:1/-1;">ივენთების ჩატვირთვა ვერ მოხერხდა.<br><b>სცადე გვერდის განახლება.</b></div>`;
+    return false;
+  }
+  return true;
+}
+
+
+const CATS = ["ყველა","კონცერტი","კლუბი","თეატრი","საბავშვო","ფესტივალი","სპორტი"];
+let activeCat = "ყველა";
+let activeDate = "ყველა";
+let searchQuery = "";
+
+function daysFromToday(dStr){
+  const today = new Date("2026-07-07");
+  today.setHours(0,0,0,0);
+  const d = new Date(dStr);
+  return Math.floor((d - today) / 86400000);
+}
+
+function buildChips(){
+  const catWrap = document.getElementById('categoryChips');
+  CATS.forEach(c=>{
+    const b = document.createElement('button');
+    b.className = 'chip' + (c===activeCat ? ' active' : '');
+    b.textContent = c;
+    b.onclick = ()=>{ activeCat = c; render(); };
+    catWrap.appendChild(b);
+  });
+
+  const dateWrap = document.getElementById('dateChips');
+  const dateOpts = ["ყველა","დღეს","ამ კვირას","ივლისი","აგვისტო"];
+  dateOpts.forEach(d=>{
+    const b = document.createElement('button');
+    b.className = 'chip' + (d===activeDate ? ' active' : '');
+    b.textContent = d;
+    b.onclick = ()=>{ activeDate = d; render(); };
+    dateWrap.appendChild(b);
+  });
+}
+
+function passesDateFilter(ev){
+  const diff = daysFromToday(ev.date);
+  if(activeDate === "დღეს") return diff === 0;
+  if(activeDate === "ამ კვირას") return diff >= 0 && diff <= 7;
+  if(activeDate === "ივლისი") return ev.date.startsWith("2026-07");
+  if(activeDate === "აგვისტო") return ev.date.startsWith("2026-08");
+  return true;
+}
+
+function render(){
+  // refresh chip active states
+  document.querySelectorAll('#categoryChips .chip').forEach(b=>{
+    b.classList.toggle('active', b.textContent === activeCat);
+  });
+  document.querySelectorAll('#dateChips .chip').forEach(b=>{
+    b.classList.toggle('active', b.textContent === activeDate);
+  });
+
+  const q = searchQuery.trim().toLowerCase();
+  const filtered = EVENTS.filter(ev=>{
+    const catOk = activeCat === "ყველა" || ev.cat === activeCat;
+    const dateOk = passesDateFilter(ev);
+    const searchOk = !q || ev.title.toLowerCase().includes(q) || ev.venue.toLowerCase().includes(q);
+    return catOk && dateOk && searchOk;
+  }).sort((a,b)=> new Date(a.date) - new Date(b.date));
+
+  document.getElementById('countLine').innerHTML = `<b>${filtered.length}</b> ღონისძიება ნაპოვნია`;
+
+  const grid = document.getElementById('eventsGrid');
+  grid.innerHTML = '';
+  if(filtered.length === 0){
+    grid.innerHTML = `<div class="empty" style="grid-column:1/-1;">ვერაფერი მოიძებნა ამ ფილტრებით.<br><b>სცადე სხვა კატეგორია ან თარიღი.</b></div>`;
+    return;
+  }
+  const monthMap = {"01":"იან","02":"თებ","03":"მარ","04":"აპრ","05":"მაი","06":"ივნ","07":"ივლ","08":"აგვ","09":"სექ","10":"ოქტ","11":"ნოე","12":"დეკ"};
+  filtered.forEach(ev=>{
+    const [y,m,d] = ev.date.split("-");
+    const a = document.createElement('a');
+    a.className = 'ticket';
+    a.href = ev.url;
+    a.target = '_blank';
+    a.rel = 'noopener';
+    a.innerHTML = `
+      <div class="ticket-date">
+        <div class="day">${d}</div>
+        <div class="mon">${monthMap[m]}</div>
+      </div>
+      <div class="ticket-body">
+        <div class="ticket-cat">${ev.cat}</div>
+        <div class="ticket-title">${ev.title}</div>
+        <div class="ticket-meta">📍 ${ev.venue}</div>
+        <div class="ticket-meta">🕗 ${ev.dateLabel}</div>
+      </div>
+      <div class="ticket-arrow">↗</div>
+    `;
+    grid.appendChild(a);
+  });
+}
+
+function buildMarquee(){
+  const track = document.getElementById('marqueeTrack');
+  const upcoming = [...EVENTS].sort((a,b)=> new Date(a.date)-new Date(b.date)).slice(0,12);
+  const items = upcoming.map(ev=>`<span><b>${ev.title}</b> — ${ev.venue}</span>`).join('');
+  track.innerHTML = items + items; // duplicate for seamless loop
+}
+
+document.getElementById('searchInput').addEventListener('input', (e)=>{
+  searchQuery = e.target.value;
+  render();
+});
+
+(async () => {
+  document.getElementById('eventsGrid').innerHTML = `<div class="empty" style="grid-column:1/-1;">იტვირთება...</div>`;
+  const ok = await loadEvents();
+  if(!ok) return;
+  buildChips();
+  buildMarquee();
+  render();
+})();
+</script>
+</body>
+</html>
