@@ -435,7 +435,10 @@ function render(){
   }
   const monthMap = {"01":"იან","02":"თებ","03":"მარ","04":"აპრ","05":"მაი","06":"ივნ","07":"ივლ","08":"აგვ","09":"სექ","10":"ოქტ","11":"ნოე","12":"დეკ"};
   filtered.forEach(ev=>{
-    const [y,m,d] = ev.date.split("-");
+    const hasDate = ev.date && ev.date.includes("-");
+    const [y,m,d] = hasDate ? ev.date.split("-") : ["","",""];
+    const dayDisplay = hasDate ? d : "🔁";
+    const monDisplay = hasDate ? (monthMap[m] || "") : "მუდმ.";
     const a = document.createElement('a');
     a.className = 'ticket';
     a.href = ev.url;
@@ -443,14 +446,14 @@ function render(){
     a.rel = 'noopener';
     a.innerHTML = `
       <div class="ticket-date">
-        <div class="day">${d}</div>
-        <div class="mon">${monthMap[m]}</div>
+        <div class="day">${dayDisplay}</div>
+        <div class="mon">${monDisplay}</div>
       </div>
       <div class="ticket-body">
         <div class="ticket-cat">${ev.cat}</div>
         <div class="ticket-title">${ev.title}</div>
         <div class="ticket-meta">📍 ${ev.venue}</div>
-        <div class="ticket-meta">🕗 ${ev.dateLabel}</div>
+        <div class="ticket-meta">🕗 ${ev.dateLabel || "იხილეთ დეტალები"}</div>
       </div>
       <div class="ticket-arrow">↗</div>
     `;
