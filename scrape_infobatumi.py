@@ -12,11 +12,14 @@ infobatumi_events.json ფაილში — იმ ფორმატში, �
     pip install requests beautifulsoup4
     python scrape_infobatumi.py
 
-⚠️ მნიშვნელოვანი: CSS სელექტორები ქვემოთ (`.event-card` და ა.შ.) სავარაუდოა.
-გვერდის რეალური სტრუქტურის დასათვალიერებლად:
+⚠️ მნიშვნელოვანი: ეს საიტი აშენებულია Elementor-ზე (WordPress page builder),
+სადაც კლასების სახელები (მაგ. elementor-element-4e99338) არასტაბილურია.
+ამის მაგივრად ვეყრდნობით data-widget_type ატრიბუტს (heading.default,
+text-editor.default), რომელიც სტაბილურია. თუ საიტის სტრუქტურა შეიცვლება
+მომავალში, საჭირო იქნება ამ სელექტორების ხელახალი გადამოწმება:
   1. გახსენი https://www.infobatumi.ge/events/ ბრაუზერში
   2. მარჯვენა ღილაკი ივენთის ბარათზე → "Inspect" / "დათვალიერება"
-  3. ნახე რეალური კლასების სახელები და განაახლე ქვემოთ
+  3. ნახე შეცვლილა თუ არა data-widget_type ან data-element_type ატრიბუტები
 """
 
 import re
@@ -87,38 +90,79 @@ def parse_date(raw_date, year=2026):
 
 
 def parse_events(html):
+    """
+    გასაღები აღმოჩენა (ბრაუზერის Inspect-ის მეშვეობით): თითოეული ივენთის
+    მთელი ბარათი გახვეულია div.ts-preview კონტეინერში — ეს არის სტაბილური
+    კლასი (არა elementor-ის შემთხვევითი ჰეშ-კოდი). საიტი თითო ივენთს
+    დუბლირებულად აჩვენებს DOM-ში (responsive mobile/desktop ვერსიები),
+    ამიტომ url-ების მიხედვით ვშლით დუბლიკატებს.
+    """
     soup = BeautifulSoup(html, "html.parser")
     events = []
+    seen_urls = set()
 
-    # ⚠️ შეცვალე რეალური კლასების მიხედვით შემდეგ, რაც დაათვალიერებ გვერდს
-    cards = soup.select(".event-card, article.event, .events-list-item")
+    cards = soup.select("div.ts-preview")
+
+    # თარიღის ნიმუშები: "16 ივლისი" ან დიაპაზონი "4 ივნისი – 23 ივლისი"
+    date_pattern = re.compile(r'(\d{1,2}\s+[ა-ჰ]+)(?:\s*[-–]\s*(\d{1,2}\s+[ა-ჰ]+))?')
+    recurring_keywords = ["ყოველდღე", "ყოველკვირეულად"]
 
     for card in cards:
-        title_el = card.select_one(".event-title, h3, h2")
-        date_el = card.select_one(".event-date, .date, time")
-        venue_el = card.select_one(".event-venue, .venue, .location")
-        link_el = card.select_one("a")
-
-        if not title_el or not link_el:
+        link_el = card.select_one('a[href*="/events/"]')
+        if not link_el:
             continue
+        url = link_el.get("href", "")
+        if not url.startswith("http"):
+            url = "https://www.infobatumi.ge" + url
+        if url.rstrip('/').endswith('/events') or url in seen_urls:
+            continue
+        seen_urls.add(url)
 
-        title = title_el.get_text(strip=True)
-        date_raw = date_el.get_text(strip=True) if date_el else ""
-        venue = venue_el.get_text(strip=True) if venue_el else "ბათუმი"
-        link = link_el.get("href", "")
-        if link and not link.startswith("http"):
-            link = "https://www.infobatumi.ge" + link
+        heading_el = card.select_one('[data-widget_type="heading.default"]')
+        title = heading_el.get_text(strip=True) if heading_el else ""
+        if not title:
+            img_el = card.select_one("img")
+            title = (img_el.get("alt", "").strip() if img_el else "") or "უცნობი სათაური"
 
-        iso_date = parse_date(date_raw) or ""
-        category = guess_category(title + " " + venue)
+        full_text = card.get_text(separator=" | ", strip=True)
+
+        # თარიღის ამოცნობა
+        date_match = date_pattern.search(full_text)
+        date_label = ""
+        iso_date = ""
+        if date_match:
+            date_label = date_match.group(0)
+            iso_date = parse_date(date_match.group(1)) or ""
+        else:
+            for kw in recurring_keywords:
+                if kw in full_text:
+                    date_label = kw
+                    break
+
+        # ვენიუს ამოცნობა — ბოლო უნიკალური სეგმენტი, რომელიც არ არის თარიღი/სათაური
+        segments = [s.strip() for s in full_text.split("|")]
+        venue = "ბათუმი"
+        seen_seg = set()
+        unique_segments = []
+        for s in segments:
+            if s and s not in seen_seg:
+                seen_seg.add(s)
+                unique_segments.append(s)
+        for s in reversed(unique_segments):
+            if s != title and not date_pattern.search(s) and not any(kw in s for kw in recurring_keywords) \
+               and s not in ("დღეს",) and len(s) > 2:
+                venue = s
+                break
+
+        category = guess_category(title + " " + full_text)
 
         events.append({
             "title": title,
             "cat": category,
             "venue": venue,
             "date": iso_date,
-            "dateLabel": date_raw,
-            "url": link,
+            "dateLabel": date_label,
+            "url": url,
         })
 
     return events
