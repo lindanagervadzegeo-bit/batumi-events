@@ -1,0 +1,33 @@
+name: Update Batumi Events
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+    steps:
+      - name: გადმოწერე რეპოზიტორი
+        uses: actions/checkout@v4
+
+      - name: დააყენე Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: დააინსტალირე ბიბლიოთეკები
+        run: pip install requests beautifulsoup4
+
+      - name: გაუშვი infobatumi.ge სქრეიპერი
+        run: python scrape_infobatumi.py
+
+      - name: გააერთიანე manual + infobatumi ივენთები
+        run: python merge_events.py
+
+      - name: დააკომიტე ცვლილებები (თუ არსებობს)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🔄 ავტომატური განახლება: events.json"
+          file_pattern: "events.json infobatumi_events.json"
