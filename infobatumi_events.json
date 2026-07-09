@@ -16,14 +16,6 @@
     "url": "https://www.infobatumi.ge/events/delfinebis-shou/"
   },
   {
-    "title": "SALIO",
-    "cat": "კონცერტი",
-    "venue": "Tropicos Batumi",
-    "date": "2026-07-08",
-    "dateLabel": "8 ივლისი",
-    "url": "https://www.infobatumi.ge/events/salio/"
-  },
-  {
     "title": "ზაფხულის რიტმები",
     "cat": "კონცერტი",
     "venue": "მუსიკალური ცენტრი",
@@ -131,8 +123,8 @@
     "title": "ოქროს გასაღების საიდუმლოება",
     "cat": "თეატრი",
     "venue": "თოჯინების თეატრი",
-    "date": "2026-06-28",
-    "dateLabel": "28 ივნისი",
+    "date": "2026-07-15",
+    "dateLabel": "15 ივლისი",
     "url": "https://www.infobatumi.ge/events/oqros-gasagebis-saidumloeba/"
   },
   {
@@ -366,6 +358,14 @@
     "date": "2026-07-28",
     "dateLabel": "28 ივლისი",
     "url": "https://www.infobatumi.ge/events/reggaeon-at-geo-graphia/"
+  },
+  {
+    "title": "ლელა წურწუმია & ჩვენი ბენდი – Mono Hall Batumi",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-07-28",
+    "dateLabel": "28 ივლისი",
+    "url": "https://www.infobatumi.ge/events/lela-tsurtsumia-da-chveni-bendi-mono-hall-batumi/"
   },
   {
     "title": "KARLO x DATO GOMARTELI – MONOHALL BATUMI",

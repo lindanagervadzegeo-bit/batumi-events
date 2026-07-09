@@ -24,28 +24,12 @@
     "url": "https://www.infobatumi.ge/events/nacionaluri-cekvis-ansambli-batumi/"
   },
   {
-    "title": "ოქროს გასაღების საიდუმლოება",
-    "cat": "თეატრი",
-    "venue": "თოჯინების თეატრი",
-    "date": "2026-06-28",
-    "dateLabel": "28 ივნისი",
-    "url": "https://www.infobatumi.ge/events/oqros-gasagebis-saidumloeba/"
-  },
-  {
     "title": "ბათუმის კულტურის ცენტრის \"ჯაზ ბიგ ბენდი\" და კვარტეტი",
     "cat": "თეატრი",
     "venue": "საზაფხულო თეატრი",
     "date": "2026-07-01",
     "dateLabel": "1 ივლისი",
     "url": "https://www.infobatumi.ge/events/jazz-big-band-da-kvarteti/"
-  },
-  {
-    "title": "SALIO",
-    "cat": "კონცერტი",
-    "venue": "Tropicos Batumi",
-    "date": "2026-07-08",
-    "dateLabel": "8 ივლისი",
-    "url": "https://www.infobatumi.ge/events/salio/"
   },
   {
     "title": "ზაფხულის რიტმები",
@@ -158,6 +142,14 @@
     "date": "2026-07-14",
     "dateLabel": "14 ივლისი",
     "url": "https://www.infobatumi.ge/events/giorgi-chialashvili-da-lalita-lomtadze-roots-resort/"
+  },
+  {
+    "title": "ოქროს გასაღების საიდუმლოება",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-07-15",
+    "dateLabel": "15 ივლისი",
+    "url": "https://www.infobatumi.ge/events/oqros-gasagebis-saidumloeba/"
   },
   {
     "title": "BRUCE BLANCHARD",
@@ -398,6 +390,14 @@
     "date": "2026-07-28",
     "dateLabel": "28 ივლისი",
     "url": "https://www.infobatumi.ge/events/reggaeon-at-geo-graphia/"
+  },
+  {
+    "title": "ლელა წურწუმია & ჩვენი ბენდი – Mono Hall Batumi",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-07-28",
+    "dateLabel": "28 ივლისი",
+    "url": "https://www.infobatumi.ge/events/lela-tsurtsumia-da-chveni-bendi-mono-hall-batumi/"
   },
   {
     "title": "KARLO x DATO GOMARTELI – MONOHALL BATUMI",
