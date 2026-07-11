@@ -16,68 +16,12 @@
     "url": "https://www.infobatumi.ge/events/delfinebis-shou/"
   },
   {
-    "title": "ზაფხულის რიტმები",
+    "title": "The Black Sea Sidewind Sessions",
     "cat": "კონცერტი",
-    "venue": "მუსიკალური ცენტრი",
-    "date": "2026-07-09",
-    "dateLabel": "9 ივლისი",
-    "url": "https://www.infobatumi.ge/events/zafxulis-ritmebi/"
-  },
-  {
-    "title": "ხანუმა 14+",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-07-09",
-    "dateLabel": "9 ივლისი",
-    "url": "https://www.infobatumi.ge/events/khanuma/"
-  },
-  {
-    "title": "ყოველკვირეული მუსიკალური პაემანი",
-    "cat": "კონცერტი",
-    "venue": "გრილ თაუნი",
-    "date": "",
-    "dateLabel": "",
-    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
-  },
-  {
-    "title": "ნინი ქარსელაძე და DJ HISTAR",
-    "cat": "კლუბი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-07-09",
-    "dateLabel": "9 ივლისი",
-    "url": "https://www.infobatumi.ge/events/nini-karseladze-dj-histar/"
-  },
-  {
-    "title": "MAMAFLEX – Mono Hall Batumi",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-07-09",
-    "dateLabel": "9 ივლისი",
-    "url": "https://www.infobatumi.ge/events/mamaflex-mono-hall-batumi/"
-  },
-  {
-    "title": "NTO – Tropicos Batumi",
-    "cat": "კონცერტი",
-    "venue": "Tropicos Batumi",
-    "date": "2026-07-09",
-    "dateLabel": "9 ივლისი",
-    "url": "https://www.infobatumi.ge/events/nto-tropicos-batumi/"
-  },
-  {
-    "title": "ანე ფრანკის დღიური 12+",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-07-10",
-    "dateLabel": "10 ივლისი",
-    "url": "https://www.infobatumi.ge/events/ane-francos-dgiuri/"
-  },
-  {
-    "title": "5STA FAMILY",
-    "cat": "კლუბი",
-    "venue": "MOON NIGHT CLUB",
-    "date": "2026-07-10",
-    "dateLabel": "10 ივლისი",
-    "url": "https://www.infobatumi.ge/events/5sta-family/"
+    "venue": "Iveria Beach",
+    "date": "2026-07-12",
+    "dateLabel": "12 ივლისი",
+    "url": "https://www.infobatumi.ge/events/the-black-sea-sidewind-sessions/"
   },
   {
     "title": "იავნანამ რა ჰქმნა?!",
@@ -86,6 +30,22 @@
     "date": "2026-07-11",
     "dateLabel": "11 ივლისი",
     "url": "https://www.infobatumi.ge/events/iavnanam-ra-hqmna/"
+  },
+  {
+    "title": "\"დაარქვი რაც გინდა\" 14+",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-07-11",
+    "dateLabel": "11 ივლისი",
+    "url": "https://www.infobatumi.ge/events/daarqvi-rac-ginda/"
+  },
+  {
+    "title": "Querubim",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-07-11",
+    "dateLabel": "11 ივლისი",
+    "url": "https://www.infobatumi.ge/events/querubim/"
   },
   {
     "title": "AM I RIGHT",
@@ -160,6 +120,14 @@
     "url": "https://www.infobatumi.ge/events/batumuri-ezoebi/"
   },
   {
+    "title": "ყოველკვირეული მუსიკალური პაემანი",
+    "cat": "კონცერტი",
+    "venue": "გრილ თაუნი",
+    "date": "",
+    "dateLabel": "",
+    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
+  },
+  {
     "title": "ვალერი მელაძის კონცერტი",
     "cat": "კონცერტი",
     "venue": "ჩოგბურთის კორტები",
@@ -190,6 +158,14 @@
     "date": "2026-07-17",
     "dateLabel": "17 ივლისი",
     "url": "https://www.infobatumi.ge/events/lambalo-da-kasha/"
+  },
+  {
+    "title": "გიორგი ცხადაძე რეტროს ვერანდაზე!",
+    "cat": "კონცერტი",
+    "venue": "რეტრო ჩაის სახლი",
+    "date": "2026-07-17",
+    "dateLabel": "17 ივლისი",
+    "url": "https://www.infobatumi.ge/events/giorgi-tskhadadze-retro-veranda/"
   },
   {
     "title": "EMRE GULMEZ",
@@ -478,5 +454,29 @@
     "date": "2026-08-06",
     "dateLabel": "6 აგვისტო",
     "url": "https://www.infobatumi.ge/events/sakhe-at-geo-graphia-batumi/"
+  },
+  {
+    "title": "ჯგუფი სახე",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-06",
+    "dateLabel": "6 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/%e1%83%af%e1%83%92%e1%83%a3%e1%83%a4%e1%83%98-%e1%83%a1%e1%83%90%e1%83%ae%e1%83%94/"
+  },
+  {
+    "title": "ZAMNA SOUNDSYSTEM by NOISE",
+    "cat": "კონცერტი",
+    "venue": "Tropicos Batumi",
+    "date": "2026-08-06",
+    "dateLabel": "6 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/zamna-soundsystem-by-noise/"
+  },
+  {
+    "title": "კრისტინა არბაკაიტეს გრანდიოზული კონცერტი",
+    "cat": "კონცერტი",
+    "venue": "ჩოგბურთის კორტები",
+    "date": "2026-08-07",
+    "dateLabel": "7 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/kristina-orbakaite-concert/"
   }
 ]
