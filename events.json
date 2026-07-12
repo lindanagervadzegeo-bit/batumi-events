@@ -48,52 +48,12 @@
     "url": "https://allevents.in/batumi/all"
   },
   {
-    "title": "იავნანამ რა ჰქმნა?!",
-    "cat": "თეატრი",
-    "venue": "თოჯინების თეატრი",
-    "date": "2026-07-11",
-    "dateLabel": "11 ივლისი",
-    "url": "https://www.infobatumi.ge/events/iavnanam-ra-hqmna/"
-  },
-  {
-    "title": "\"დაარქვი რაც გინდა\" 14+",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-07-11",
-    "dateLabel": "11 ივლისი",
-    "url": "https://www.infobatumi.ge/events/daarqvi-rac-ginda/"
-  },
-  {
-    "title": "Querubim",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-07-11",
-    "dateLabel": "11 ივლისი",
-    "url": "https://www.infobatumi.ge/events/querubim/"
-  },
-  {
-    "title": "AM I RIGHT",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-07-11",
-    "dateLabel": "11 ივლისი",
-    "url": "https://www.infobatumi.ge/events/am-i-right-at-geo-graphia/"
-  },
-  {
     "title": "DJ CHARLES B x MARICA — GENER8",
     "cat": "კლუბი",
     "venue": "GENER8, ბათუმის ბულვარი",
     "date": "2026-07-12",
     "dateLabel": "12 ივლისი",
     "url": "https://tkt.ge/show/23929/dj-charles-b"
-  },
-  {
-    "title": "The Black Sea Sidewind Sessions",
-    "cat": "კონცერტი",
-    "venue": "Iveria Beach",
-    "date": "2026-07-12",
-    "dateLabel": "12 ივლისი",
-    "url": "https://www.infobatumi.ge/events/the-black-sea-sidewind-sessions/"
   },
   {
     "title": "ANNATRON B2B FRANKIE",
@@ -512,11 +472,51 @@
     "url": "https://www.infobatumi.ge/events/kristina-orbakaite-concert/"
   },
   {
+    "title": "პუგაჩოვას ჰიტები: ინსტრუმენტული მიძღვნა პრიმადონასადმი",
+    "cat": "კონცერტი",
+    "venue": "ბათუმის ცირკი",
+    "date": "2026-08-07",
+    "dateLabel": "7 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/pugachovas-hitebi/"
+  },
+  {
+    "title": "DJ KATYA LIVINGSTON",
+    "cat": "კლუბი",
+    "venue": "G17",
+    "date": "2026-08-07",
+    "dateLabel": "7 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/dj-katya-livingston/"
+  },
+  {
     "title": "Summer Nights Vol. 6",
     "cat": "კონცერტი",
     "venue": "Stage 17",
     "date": "2026-08-09",
     "dateLabel": "9 აგვისტო",
     "url": "https://batumievents.com/Event/1266/"
+  },
+  {
+    "title": "Murat Boz",
+    "cat": "კონცერტი",
+    "venue": "ჩოგბურთის კორტები",
+    "date": "2026-08-09",
+    "dateLabel": "9 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/murat-boz/"
+  },
+  {
+    "title": "ჯგუფი გამოუვალი მდგომარეობა",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-11",
+    "dateLabel": "11 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/jgufi-gamouvali-mdgomareoba-geo-graphia/"
+  },
+  {
+    "title": "Dam Swindle – Tropicos Batumi",
+    "cat": "კონცერტი",
+    "venue": "Tropicos Batumi",
+    "date": "2026-08-11",
+    "dateLabel": "11 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/dam-swindle-tropicos-batumi/"
   }
 ]
