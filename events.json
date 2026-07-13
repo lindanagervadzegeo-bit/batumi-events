@@ -56,14 +56,6 @@
     "url": "https://tkt.ge/show/23929/dj-charles-b"
   },
   {
-    "title": "ANNATRON B2B FRANKIE",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-07-12",
-    "dateLabel": "12 ივლისი",
-    "url": "https://www.infobatumi.ge/events/annatron-b2b-frankie/"
-  },
-  {
     "title": "გიორგი ჭიალაშვილი და ლალიტა ლომთაძე",
     "cat": "კონცერტი",
     "venue": "Roots Resort",
@@ -518,5 +510,13 @@
     "date": "2026-08-11",
     "dateLabel": "11 აგვისტო",
     "url": "https://www.infobatumi.ge/events/dam-swindle-tropicos-batumi/"
+  },
+  {
+    "title": "DJ TWINS",
+    "cat": "კლუბი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-12",
+    "dateLabel": "12 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/dj-twins-at-geo-graphia/"
   }
 ]
