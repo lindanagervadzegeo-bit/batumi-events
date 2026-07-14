@@ -160,14 +160,6 @@
     "url": "https://www.infobatumi.ge/events/i-hate-models-mono-hall-batumi/"
   },
   {
-    "title": "ფეხბურთის ტრენინგები და ტურნირი",
-    "cat": "სპორტი",
-    "venue": "ქართულ-ამერიკული სკოლა",
-    "date": "2026-07-18",
-    "dateLabel": "18 ივლისი",
-    "url": "https://www.infobatumi.ge/events/fexburtis-treningebi-da-turniri/"
-  },
-  {
     "title": "აკადემიური ესეს წერის სემინარი",
     "cat": "კონცერტი",
     "venue": "ქართულ ამერიკული სკოლა",
@@ -518,5 +510,13 @@
     "date": "2026-08-12",
     "dateLabel": "12 აგვისტო",
     "url": "https://www.infobatumi.ge/events/dj-twins-at-geo-graphia/"
+  },
+  {
+    "title": "BomFunk MC’s",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-13",
+    "dateLabel": "13 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/bomfunk-mcs/"
   }
 ]
