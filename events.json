@@ -16,6 +16,14 @@
     "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
   },
   {
+    "title": "ლიანა ისაკაძის სახელობის საერთაშორისო ფესტივალი „ღამის სერენადები“",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "",
+    "dateLabel": "19 აგვისტოდან - 20 სექტემბრამდე",
+    "url": "https://www.infobatumi.ge/events/gamis-serenadebi-2026/"
+  },
+  {
     "title": "ნაციონალური ცეკვის სახელმწიფო აკადემიური ანსამბლი ,,ბათუმი“",
     "cat": "თეატრი",
     "venue": "საზაფხულო თეატრი",
@@ -54,14 +62,6 @@
     "date": "2026-07-12",
     "dateLabel": "12 ივლისი",
     "url": "https://tkt.ge/show/23929/dj-charles-b"
-  },
-  {
-    "title": "გიორგი ჭიალაშვილი და ლალიტა ლომთაძე",
-    "cat": "კონცერტი",
-    "venue": "Roots Resort",
-    "date": "2026-07-14",
-    "dateLabel": "14 ივლისი",
-    "url": "https://www.infobatumi.ge/events/giorgi-chialashvili-da-lalita-lomtadze-roots-resort/"
   },
   {
     "title": "ოქროს გასაღების საიდუმლოება",
@@ -360,14 +360,6 @@
     "url": "https://www.infobatumi.ge/events/guram-amariani/"
   },
   {
-    "title": "t.A.T.u – Batumi Tennis Courts",
-    "cat": "კონცერტი",
-    "venue": "ჩოგბურთის კორტები",
-    "date": "2026-08-01",
-    "dateLabel": "1 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/t-a-t-u-batumi-tennis-courts/"
-  },
-  {
     "title": "ქართული ხმები G17-ში",
     "cat": "კონცერტი",
     "venue": "G17",
@@ -392,14 +384,6 @@
     "url": "https://www.infobatumi.ge/events/dodona-namoradzis-solo-koncerti/"
   },
   {
-    "title": "Tarja Turunen – Mono Hall Batumi",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-04",
-    "dateLabel": "4 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/tarja-turunen-mono-hall-batumi/"
-  },
-  {
     "title": "Tarja Turunen",
     "cat": "კლუბი",
     "venue": "Mono Hall Batumi",
@@ -422,14 +406,6 @@
     "date": "2026-08-06",
     "dateLabel": "6 აგვისტო",
     "url": "https://www.infobatumi.ge/events/jemal-da-cisana-sefiashvilebis-sagamo/"
-  },
-  {
-    "title": "SAKHE AT GEO.GRAPHIA BATUMI",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-08-06",
-    "dateLabel": "6 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/sakhe-at-geo-graphia-batumi/"
   },
   {
     "title": "ჯგუფი სახე",
@@ -518,5 +494,29 @@
     "date": "2026-08-13",
     "dateLabel": "13 აგვისტო",
     "url": "https://www.infobatumi.ge/events/bomfunk-mcs/"
+  },
+  {
+    "title": "BomFunk MC’s",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-13",
+    "dateLabel": "13 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/bomfunk-mcs-live-in-batumi/"
+  },
+  {
+    "title": "GIO PIKA",
+    "cat": "კონცერტი",
+    "venue": "ბათუმის ჩოგბურთის კლუბი",
+    "date": "2026-08-15",
+    "dateLabel": "15 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/gio-pika/"
+  },
+  {
+    "title": "AGORIA – Tropicos Batumi",
+    "cat": "კონცერტი",
+    "venue": "Tropicos Batumi",
+    "date": "2026-08-18",
+    "dateLabel": "18 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/agoria-tropicos-batumi/"
   }
 ]
