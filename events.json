@@ -64,46 +64,6 @@
     "url": "https://tkt.ge/show/23929/dj-charles-b"
   },
   {
-    "title": "უღრანი ტყის ყაჩაღები",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-07-17",
-    "dateLabel": "17 ივლისი",
-    "url": "https://www.infobatumi.ge/events/ugrani-tkis-kachagebi/"
-  },
-  {
-    "title": "ლამბალო და ყაშა",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-07-17",
-    "dateLabel": "17 ივლისი",
-    "url": "https://www.infobatumi.ge/events/lambalo-da-kasha/"
-  },
-  {
-    "title": "გიორგი ცხადაძე რეტროს ვერანდაზე!",
-    "cat": "კონცერტი",
-    "venue": "რეტრო ჩაის სახლი",
-    "date": "2026-07-17",
-    "dateLabel": "17 ივლისი",
-    "url": "https://www.infobatumi.ge/events/giorgi-tskhadadze-retro-veranda/"
-  },
-  {
-    "title": "EMRE GULMEZ",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-07-17",
-    "dateLabel": "17 ივლისი",
-    "url": "https://www.infobatumi.ge/events/emre-gulmez/"
-  },
-  {
-    "title": "I Hate Models – Mono Hall Batumi",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-07-17",
-    "dateLabel": "17 ივლისი",
-    "url": "https://www.infobatumi.ge/events/i-hate-models-mono-hall-batumi/"
-  },
-  {
     "title": "აკადემიური ესეს წერის სემინარი",
     "cat": "კონცერტი",
     "venue": "ქართულ ამერიკული სკოლა",
@@ -238,6 +198,14 @@
     "date": "2026-07-25",
     "dateLabel": "25 ივლისი",
     "url": "https://www.infobatumi.ge/events/guram-tamazashvilis-qalaquri-simgerebis-festivali/"
+  },
+  {
+    "title": "ივენთების სერია ROOTS RESORT-ში!",
+    "cat": "კონცერტი",
+    "venue": "Roots Resort",
+    "date": "2026-07-25",
+    "dateLabel": "25 ივლისი",
+    "url": "https://www.infobatumi.ge/events/iventebis-seria-roots-resort/"
   },
   {
     "title": "Polo & Pan",
@@ -480,6 +448,14 @@
     "url": "https://www.infobatumi.ge/events/vera-brezhneva-concert-batumi-2026/"
   },
   {
+    "title": "მურო გაგოშიძე",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-20",
+    "dateLabel": "20 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/muro-gagoshidze/"
+  },
+  {
     "title": "Maceo Plex – Mono Hall Batumi",
     "cat": "კლუბი",
     "venue": "Mono Hall Batumi",
@@ -518,5 +494,13 @@
     "date": "2026-09-12",
     "dateLabel": "12 სექტემბერი",
     "url": "https://www.infobatumi.ge/events/tamar-gvertsitelis-solo-koncerti/"
+  },
+  {
+    "title": "Nervy in Batumi",
+    "cat": "კონცერტი",
+    "venue": "ბათუმის ცირკი",
+    "date": "2026-11-21",
+    "dateLabel": "21 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/nervy-in-batumi/"
   }
 ]
