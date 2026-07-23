@@ -1,35 +1,11 @@
 [
   {
-    "title": "ნაციონალური ცეკვის სახელმწიფო აკადემიური ანსამბლი ,,ბათუმი“",
-    "cat": "თეატრი",
-    "venue": "საზაფხულო თეატრი",
-    "date": "2026-06-04",
-    "dateLabel": "4 ივნისი - 23 ივლისი",
-    "url": "https://www.infobatumi.ge/events/nacionaluri-cekvis-ansambli-batumi/"
-  },
-  {
     "title": "დელფინების შოუ",
     "cat": "კონცერტი",
     "venue": "ბათუმის დელფინარიუმი",
     "date": "",
     "dateLabel": "ყოველდღე",
     "url": "https://www.infobatumi.ge/events/delfinebis-shou/"
-  },
-  {
-    "title": "MOTT",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-07-22",
-    "dateLabel": "22 ივლისი",
-    "url": "https://www.infobatumi.ge/events/mott/"
-  },
-  {
-    "title": "ნატო გელაშვილი და ჭოხოები – Mono Hall Batumi",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-07-22",
-    "dateLabel": "22 ივლისი",
-    "url": "https://www.infobatumi.ge/events/nato-gelashvili-da-choxoebi-mono-hall/"
   },
   {
     "title": "II გლობალური სიმპოზიუმი ქიმიის, ბიოქიმიისა და ჯანმრთელობის მეცნიერებების საკითხებზე",
@@ -478,5 +454,29 @@
     "date": "2026-08-23",
     "dateLabel": "23 აგვისტო",
     "url": "https://www.infobatumi.ge/events/batumis-whisky-festival-2026/"
+  },
+  {
+    "title": "Maceo Plex – Mono Hall Batumi",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-22",
+    "dateLabel": "22 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/maceo-plex-mono-hall-batumi/"
+  },
+  {
+    "title": "მარია ბუენოს-აირესიდან - გადატვირთვა",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "",
+    "dateLabel": "23 ავისტო",
+    "url": "https://www.infobatumi.ge/events/maria-buenos-airesidan-gadatvirtva/"
+  },
+  {
+    "title": "Stephan Bodzin",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-23",
+    "dateLabel": "23 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/stephan-bodzin/"
   }
 ]
