@@ -72,54 +72,6 @@
     "url": "https://batumievents.com/Event/1170/"
   },
   {
-    "title": "II გლობალური სიმპოზიუმი ქიმიის, ბიოქიმიისა და ჯანმრთელობის მეცნიერებების საკითხებზე",
-    "cat": "კონცერტი",
-    "venue": "ბსუ",
-    "date": "2026-07-23",
-    "dateLabel": "23 ივლისი - 24 ივლისი",
-    "url": "https://www.infobatumi.ge/events/ii-globaluri-simpoziumi/"
-  },
-  {
-    "title": "MONA",
-    "cat": "კლუბი",
-    "venue": "MOON NIGHT CLUB",
-    "date": "2026-07-24",
-    "dateLabel": "24 ივლისი",
-    "url": "https://www.infobatumi.ge/events/mona/"
-  },
-  {
-    "title": "GOOFY LAND",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-07-24",
-    "dateLabel": "24 ივლისი",
-    "url": "https://www.infobatumi.ge/events/goofy-land/"
-  },
-  {
-    "title": "STEPHANE – Mono Hall Batumi",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-07-24",
-    "dateLabel": "24 ივლისი",
-    "url": "https://www.infobatumi.ge/events/stephane-mono-hall-batumi/"
-  },
-  {
-    "title": "Emmanule Jal – Tropicos Batumi",
-    "cat": "კონცერტი",
-    "venue": "Tropicos Batumi",
-    "date": "2026-07-24",
-    "dateLabel": "24 ივლისი",
-    "url": "https://www.infobatumi.ge/events/emmanule-jal-tropicos-batumi/"
-  },
-  {
-    "title": "Summer Live Sessions",
-    "cat": "კონცერტი",
-    "venue": "Iveria Beach",
-    "date": "2026-07-25",
-    "dateLabel": "25 ივლისი",
-    "url": "https://www.infobatumi.ge/events/summer-live-sessions/"
-  },
-  {
     "title": "დღისით წრუპვა სახალისოა",
     "cat": "კონცერტი",
     "venue": "ივლ",
@@ -518,5 +470,29 @@
     "date": "2026-08-25",
     "dateLabel": "25 აგვისტო",
     "url": "https://www.infobatumi.ge/events/tango-operacione/"
+  },
+  {
+    "title": "ტანგო- ოპერაციონე",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-08-25",
+    "dateLabel": "25 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/tango-operazione/"
+  },
+  {
+    "title": "თამარ გვერდწითელის სოლო კონცერტი ბენდთან ერთად",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-09-12",
+    "dateLabel": "12 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/tamar-gvertsitelis-solo-koncerti/"
+  },
+  {
+    "title": "Nervy in Batumi",
+    "cat": "კონცერტი",
+    "venue": "ბათუმის ცირკი",
+    "date": "2026-11-21",
+    "dateLabel": "21 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/nervy-in-batumi/"
   }
 ]
