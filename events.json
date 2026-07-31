@@ -56,22 +56,6 @@
     "url": "https://batumievents.com/Event/1170/"
   },
   {
-    "title": "ფიროსმანი",
-    "cat": "კონცერტი",
-    "venue": "მუსიკალური ცენტრი",
-    "date": "2026-07-30",
-    "dateLabel": "30 ივლისი",
-    "url": "https://www.infobatumi.ge/events/pirosmani/"
-  },
-  {
-    "title": "KARLO x DATO GOMARTELI – MONOHALL BATUMI",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-07-30",
-    "dateLabel": "30 ივლისი",
-    "url": "https://www.infobatumi.ge/events/karlo-x-dato-gomarteli-monohall/"
-  },
-  {
     "title": "კომპოზიტორ მაიკო კაჭკაჭიშვილის აკადემიის მუსიკალური საღამო",
     "cat": "თეატრი",
     "venue": "საზაფხულო თეატრი",
@@ -246,6 +230,14 @@
     "date": "2026-08-06",
     "dateLabel": "6 აგვისტო",
     "url": "https://www.infobatumi.ge/events/%e1%83%af%e1%83%92%e1%83%a3%e1%83%a4%e1%83%98-%e1%83%a1%e1%83%90%e1%83%ae%e1%83%94/"
+  },
+  {
+    "title": "ნატო გელაშვილი და ჭოხოები – Mono Hall Batumi",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-06",
+    "dateLabel": "6 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/nato-gelashvili-da-choxoebi-mono-hall/"
   },
   {
     "title": "ZAMNA SOUNDSYSTEM by NOISE",
@@ -510,6 +502,14 @@
     "date": "2026-08-21",
     "dateLabel": "21 აგვისტო",
     "url": "https://www.infobatumi.ge/events/beatriviche-veneci-da-sakartvelos-virtuozebi/"
+  },
+  {
+    "title": "კამპერ ფესტივალი “ბორიალა\"",
+    "cat": "ფესტივალი",
+    "venue": "მაჭახელას ხეობა",
+    "date": "2026-08-22",
+    "dateLabel": "22 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/boriala/"
   },
   {
     "title": "“წითელქუდა” მარიონეტული ზღაპარი",
