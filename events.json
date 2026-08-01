@@ -10,7 +10,7 @@
   {
     "title": "ყოველკვირეული მუსიკალური პაემანი",
     "cat": "კონცერტი",
-    "venue": "გრილ თაუნი",
+    "venue": "ივნ",
     "date": "",
     "dateLabel": "",
     "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
@@ -56,38 +56,6 @@
     "url": "https://batumievents.com/Event/1170/"
   },
   {
-    "title": "კომპოზიტორ მაიკო კაჭკაჭიშვილის აკადემიის მუსიკალური საღამო",
-    "cat": "თეატრი",
-    "venue": "საზაფხულო თეატრი",
-    "date": "2026-07-31",
-    "dateLabel": "31 ივლისი",
-    "url": "https://www.infobatumi.ge/events/kompozitor-maiko-kachkachishvilis-akademiis-musikaluri-sagamo/"
-  },
-  {
-    "title": "Essential Rock | Chamber Edition",
-    "cat": "კონცერტი",
-    "venue": "ბათუმის ცირკი",
-    "date": "2026-07-31",
-    "dateLabel": "31 ივლისი",
-    "url": "https://www.infobatumi.ge/events/essential-rock-chamber-edition/"
-  },
-  {
-    "title": "გია სურამელაშვილი",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-07-31",
-    "dateLabel": "31 ივლისი",
-    "url": "https://www.infobatumi.ge/events/gia-suramelashvili-geo-graphia/"
-  },
-  {
-    "title": "Stella Bossi – Mono Hall Batumi",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-07-31",
-    "dateLabel": "31 ივლისი",
-    "url": "https://www.infobatumi.ge/events/stella-bossi-mono-hall-batumi/"
-  },
-  {
     "title": "გურამ ამარიანი",
     "cat": "კონცერტი",
     "venue": "ბათუმის ცირკი",
@@ -128,6 +96,14 @@
     "url": "https://www.infobatumi.ge/events/raffa-guido/"
   },
   {
+    "title": "VAKO BLIX & MORCHI",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-02",
+    "dateLabel": "2 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/vako-blix-morchi/"
+  },
+  {
     "title": "DELUM",
     "cat": "კონცერტი",
     "venue": "GEO.GRAPHIA",
@@ -160,6 +136,14 @@
     "url": "https://www.infobatumi.ge/events/steve-aoki-live-in-batumi/"
   },
   {
+    "title": "ქართული ეპოსი",
+    "cat": "კონცერტი",
+    "venue": "ბსუ",
+    "date": "2026-08-04",
+    "dateLabel": "4 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/qartuli-eposi/"
+  },
+  {
     "title": "დოდონა ნამორაძის სოლო კონცერტი",
     "cat": "თეატრი",
     "venue": "საზაფხულო თეატრი",
@@ -182,6 +166,14 @@
     "date": "2026-08-04",
     "dateLabel": "4 აგვისტო",
     "url": "https://www.infobatumi.ge/events/avangart-tabldot-by-noise/"
+  },
+  {
+    "title": "JIBU & BESSARIONN",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-05",
+    "dateLabel": "5 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/jibu-bessarionn/"
   },
   {
     "title": "Lexseni – Mono Hall Batumi",
@@ -384,6 +376,14 @@
     "url": "https://www.infobatumi.ge/events/dj-twins-at-geo-graphia/"
   },
   {
+    "title": "ლელა წურწუმია & ჩვენი ბენდი – Mono Hall Batumi",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-12",
+    "dateLabel": "12 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/lela-tsurtsumia-da-chveni-bendi-mono-hall-batumi/"
+  },
+  {
     "title": "BomFunk MC’s",
     "cat": "კლუბი",
     "venue": "Mono Hall Batumi",
@@ -406,6 +406,14 @@
     "date": "2026-08-14",
     "dateLabel": "14 აგვისტო",
     "url": "https://www.infobatumi.ge/events/jan-blomqvist/"
+  },
+  {
+    "title": "დათო გომართელი",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-14",
+    "dateLabel": "14 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/dato-gomarteli-geo-graphia/"
   },
   {
     "title": "თემურ თათარაშვილი - 60 !",
@@ -502,14 +510,6 @@
     "date": "2026-08-21",
     "dateLabel": "21 აგვისტო",
     "url": "https://www.infobatumi.ge/events/beatriviche-veneci-da-sakartvelos-virtuozebi/"
-  },
-  {
-    "title": "კამპერ ფესტივალი “ბორიალა\"",
-    "cat": "ფესტივალი",
-    "venue": "მაჭახელას ხეობა",
-    "date": "2026-08-22",
-    "dateLabel": "22 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/boriala/"
   },
   {
     "title": "“წითელქუდა” მარიონეტული ზღაპარი",
