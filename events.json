@@ -56,46 +56,6 @@
     "url": "https://batumievents.com/Event/1170/"
   },
   {
-    "title": "გურამ ამარიანი",
-    "cat": "კონცერტი",
-    "venue": "ბათუმის ცირკი",
-    "date": "2026-08-01",
-    "dateLabel": "1 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/guram-amariani/"
-  },
-  {
-    "title": "ქართული ხმები G17-ში",
-    "cat": "კონცერტი",
-    "venue": "G17",
-    "date": "2026-08-01",
-    "dateLabel": "1 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/qartuli-xmebi-g17/"
-  },
-  {
-    "title": "კახაბერი და ხანუმები",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-08-01",
-    "dateLabel": "1 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/kakhaberi-da-khanumebi/"
-  },
-  {
-    "title": "MGZAVREBI – Mono Hall Batumi",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-01",
-    "dateLabel": "1 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/mgzavrebi-mono-hall-batumi/"
-  },
-  {
-    "title": "Raffa Guido",
-    "cat": "კონცერტი",
-    "venue": "Tropicos Batumi",
-    "date": "2026-08-01",
-    "dateLabel": "1 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/raffa-guido/"
-  },
-  {
     "title": "VAKO BLIX & MORCHI",
     "cat": "კონცერტი",
     "venue": "GEO.GRAPHIA",
@@ -296,6 +256,14 @@
     "url": "https://batumievents.com/Event/1266/"
   },
   {
+    "title": "ყვავილების თაიგულის აწყობის მასტერკლასი",
+    "cat": "კონცერტი",
+    "venue": "Le Méridien Batumi",
+    "date": "2026-08-09",
+    "dateLabel": "9 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/kvavilebis-taigulis-ackobis-masterklasi/"
+  },
+  {
     "title": "Murat Boz",
     "cat": "კონცერტი",
     "venue": "ჩოგბურთის კორტები",
@@ -344,6 +312,14 @@
     "url": "https://www.infobatumi.ge/events/buki-nagara/"
   },
   {
+    "title": "წრეა ცამდე 14+",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-08-11",
+    "dateLabel": "11 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/crea-camde-14/"
+  },
+  {
     "title": "ჯგუფი გამოუვალი მდგომარეობა",
     "cat": "კონცერტი",
     "venue": "GEO.GRAPHIA",
@@ -384,6 +360,14 @@
     "url": "https://www.infobatumi.ge/events/lela-tsurtsumia-da-chveni-bendi-mono-hall-batumi/"
   },
   {
+    "title": "ალუდა 14+",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-08-13",
+    "dateLabel": "13 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/aluda-14/"
+  },
+  {
     "title": "BomFunk MC’s",
     "cat": "კლუბი",
     "venue": "Mono Hall Batumi",
@@ -416,6 +400,14 @@
     "url": "https://www.infobatumi.ge/events/dato-gomarteli-geo-graphia/"
   },
   {
+    "title": "ეზოში ავი ძაღლია",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-08-15",
+    "dateLabel": "15 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/ezoshi-avi-dzaglia/"
+  },
+  {
     "title": "თემურ თათარაშვილი - 60 !",
     "cat": "კონცერტი",
     "venue": "მუსიკალური ცენტრი",
@@ -438,6 +430,14 @@
     "date": "2026-08-15",
     "dateLabel": "15 აგვისტო",
     "url": "https://www.infobatumi.ge/events/bruce-blanchard-at-geo-graphia/"
+  },
+  {
+    "title": "ჯერ დაიხოცნენ - მერე იქორწინეს",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-08-16",
+    "dateLabel": "16 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/jer-daixocnen-mere-iqorcines/"
   },
   {
     "title": "ONFAYA",
