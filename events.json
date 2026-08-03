@@ -24,6 +24,14 @@
     "url": "https://www.infobatumi.ge/events/gamis-serenadebi-2026/"
   },
   {
+    "title": "მარია ბუენოს-აირესიდან - გადატვირთვა",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "",
+    "dateLabel": "23 ავისტო",
+    "url": "https://www.infobatumi.ge/events/maria-buenos-airesidan-gadatvirtva/"
+  },
+  {
     "title": "შავი ზღვის ჯაზ ფესტივალი 2026",
     "cat": "ფესტივალი",
     "venue": "Tennis Courts Batumi",
@@ -54,38 +62,6 @@
     "date": "2026-07-22",
     "dateLabel": "22 ივლისი",
     "url": "https://batumievents.com/Event/1170/"
-  },
-  {
-    "title": "VAKO BLIX & MORCHI",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-08-02",
-    "dateLabel": "2 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/vako-blix-morchi/"
-  },
-  {
-    "title": "DELUM",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-08-02",
-    "dateLabel": "2 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/delum-geo-graphia/"
-  },
-  {
-    "title": "LayZee Fka Mr. President (90-იანების მუსიკა)",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-02",
-    "dateLabel": "2 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/layzee-fka-mr-president/"
-  },
-  {
-    "title": "WOO YORK (LIVE) – Tropicos Batumi",
-    "cat": "კონცერტი",
-    "venue": "Tropicos Batumi",
-    "date": "2026-08-02",
-    "dateLabel": "2 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/woo-york-live-tropicos-batumi/"
   },
   {
     "title": "Steve Aoki - Live in Batumi",
@@ -166,14 +142,6 @@
     "date": "2026-08-06",
     "dateLabel": "6 აგვისტო",
     "url": "https://www.infobatumi.ge/events/jemal-da-cisana-sefiashvilebis-sagamo/"
-  },
-  {
-    "title": "SAKHE",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-08-06",
-    "dateLabel": "6 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/sakhe-geo-graphia/"
   },
   {
     "title": "ჯგუფი სახე",
@@ -510,6 +478,38 @@
     "date": "2026-08-21",
     "dateLabel": "21 აგვისტო",
     "url": "https://www.infobatumi.ge/events/beatriviche-veneci-da-sakartvelos-virtuozebi/"
+  },
+  {
+    "title": "12 SAATI x Lorenzo Ragazini",
+    "cat": "კლუბი",
+    "venue": "Molen Club",
+    "date": "2026-08-21",
+    "dateLabel": "21 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/12-saati-x-lorenzo-ragazini/"
+  },
+  {
+    "title": "კამპერ ფესტივალი “ბორიალა\"",
+    "cat": "ფესტივალი",
+    "venue": "მაჭახელას ხეობა",
+    "date": "2026-08-22",
+    "dateLabel": "22 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/boriala/"
+  },
+  {
+    "title": "Maceo Plex – Mono Hall Batumi",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-22",
+    "dateLabel": "22 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/maceo-plex-mono-hall-batumi/"
+  },
+  {
+    "title": "თბილისის ვისკის ფესტივალი 2026",
+    "cat": "ფესტივალი",
+    "venue": "სასტუმრო შერატონი",
+    "date": "2026-08-23",
+    "dateLabel": "23 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/batumis-whisky-festival-2026/"
   },
   {
     "title": "“წითელქუდა” მარიონეტული ზღაპარი",
