@@ -64,14 +64,6 @@
     "url": "https://batumievents.com/Event/1170/"
   },
   {
-    "title": "Steve Aoki - Live in Batumi",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-03",
-    "dateLabel": "3 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/steve-aoki-live-in-batumi/"
-  },
-  {
     "title": "ქართული ეპოსი",
     "cat": "კონცერტი",
     "venue": "ბსუ",
@@ -510,6 +502,14 @@
     "date": "2026-08-23",
     "dateLabel": "23 აგვისტო",
     "url": "https://www.infobatumi.ge/events/batumis-whisky-festival-2026/"
+  },
+  {
+    "title": "Stephan Bodzin",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-23",
+    "dateLabel": "23 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/stephan-bodzin/"
   },
   {
     "title": "“წითელქუდა” მარიონეტული ზღაპარი",
