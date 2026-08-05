@@ -16,38 +16,6 @@
     "url": "https://www.infobatumi.ge/events/citelquda-marionetuli-zgapari/"
   },
   {
-    "title": "ქართული ეპოსი",
-    "cat": "კონცერტი",
-    "venue": "ბსუ",
-    "date": "2026-08-04",
-    "dateLabel": "4 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/qartuli-eposi/"
-  },
-  {
-    "title": "დოდონა ნამორაძის სოლო კონცერტი",
-    "cat": "თეატრი",
-    "venue": "საზაფხულო თეატრი",
-    "date": "2026-08-04",
-    "dateLabel": "4 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/dodona-namoradzis-solo-koncerti/"
-  },
-  {
-    "title": "Tarja Turunen",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-04",
-    "dateLabel": "4 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/tarja-turunen/"
-  },
-  {
-    "title": "Avangart Tabldot by NOISE",
-    "cat": "კონცერტი",
-    "venue": "Tropicos Batumi",
-    "date": "2026-08-04",
-    "dateLabel": "4 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/avangart-tabldot-by-noise/"
-  },
-  {
     "title": "“BEACH” 14+",
     "cat": "თეატრი",
     "venue": "დრამატული თეატრი",
@@ -285,14 +253,6 @@
     "venue": "Mono Hall Batumi",
     "date": "2026-08-13",
     "dateLabel": "13 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/bomfunk-mcs/"
-  },
-  {
-    "title": "BomFunk MC’s",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-13",
-    "dateLabel": "13 აგვისტო",
     "url": "https://www.infobatumi.ge/events/bomfunk-mcs-live-in-batumi/"
   },
   {
@@ -448,7 +408,7 @@
     "url": "https://www.infobatumi.ge/events/boriala/"
   },
   {
-    "title": "თბილისის ვისკის ფესტივალი 2026",
+    "title": "ვისკის ფესტივალი 2026",
     "cat": "ფესტივალი",
     "venue": "სასტუმრო შერატონი",
     "date": "2026-08-23",
@@ -478,5 +438,45 @@
     "date": "2026-08-23",
     "dateLabel": "23 აგვისტო",
     "url": "https://www.infobatumi.ge/events/stephan-bodzin/"
+  },
+  {
+    "title": "CEELO GREEN",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-24",
+    "dateLabel": "24 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/ceelo-green/"
+  },
+  {
+    "title": "ტანგო- ოპერაციონე",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-08-25",
+    "dateLabel": "25 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/tango-operacione/"
+  },
+  {
+    "title": "ანრი ჯოხაძის სოლო კონცერტი",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-08-30",
+    "dateLabel": "30 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/anri-jokhadzis-solo-koncerti/"
+  },
+  {
+    "title": "ფსოი კოროლენკო",
+    "cat": "კონცერტი",
+    "venue": "რესტორანი კულტურა",
+    "date": "2026-09-01",
+    "dateLabel": "1 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/fsoi-korolenko/"
+  },
+  {
+    "title": "სიტყვა შეგონებანი",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-09-03",
+    "dateLabel": "3 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/sitkva-shegonebani/"
   }
 ]
