@@ -24,30 +24,6 @@
     "url": "https://www.infobatumi.ge/events/beach-14/"
   },
   {
-    "title": "JIBU & BESSARIONN",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-08-05",
-    "dateLabel": "5 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/jibu-bessarionn/"
-  },
-  {
-    "title": "Lexseni – Mono Hall Batumi",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-05",
-    "dateLabel": "5 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/lexseni-mono-hall-batumi/"
-  },
-  {
-    "title": "Ibiza Records",
-    "cat": "კონცერტი",
-    "venue": "Tropicos Batumi",
-    "date": "2026-08-05",
-    "dateLabel": "5 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/ibiza-records/"
-  },
-  {
     "title": "ყოველკვირეული მუსიკალური პაემანი",
     "cat": "კონცერტი",
     "venue": "ივნ",
@@ -478,5 +454,29 @@
     "date": "2026-09-03",
     "dateLabel": "3 სექტემბერი",
     "url": "https://www.infobatumi.ge/events/sitkva-shegonebani/"
+  },
+  {
+    "title": "გემოფესტი",
+    "cat": "კონცერტი",
+    "venue": "კოლონადებთან",
+    "date": "",
+    "dateLabel": "5 სექტემბრიდან - 6 სექტემბრამდე",
+    "url": "https://www.infobatumi.ge/events/gemofest-batumi-2026/"
+  },
+  {
+    "title": "თამარ გვერდწითელის სოლო კონცერტი ბენდთან ერთად",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-09-12",
+    "dateLabel": "12 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/tamar-gvertsitelis-solo-koncerti/"
+  },
+  {
+    "title": "Nervy in Batumi",
+    "cat": "კონცერტი",
+    "venue": "ბათუმის ცირკი",
+    "date": "2026-11-21",
+    "dateLabel": "21 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/nervy-in-batumi/"
   }
 ]
