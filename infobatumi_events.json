@@ -16,54 +16,6 @@
     "url": "https://www.infobatumi.ge/events/citelquda-marionetuli-zgapari/"
   },
   {
-    "title": "“BEACH” 14+",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-08-06",
-    "dateLabel": "6 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/beach-14/"
-  },
-  {
-    "title": "ყოველკვირეული მუსიკალური პაემანი",
-    "cat": "კონცერტი",
-    "venue": "ივნ",
-    "date": "",
-    "dateLabel": "",
-    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
-  },
-  {
-    "title": "ჯემალ და ცისანა სეფიაშვილების საღამო ბათუმში",
-    "cat": "კონცერტი",
-    "venue": "მუსიკალური ცენტრი",
-    "date": "2026-08-06",
-    "dateLabel": "6 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/jemal-da-cisana-sefiashvilebis-sagamo/"
-  },
-  {
-    "title": "ჯგუფი სახე",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-08-06",
-    "dateLabel": "6 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/%e1%83%af%e1%83%92%e1%83%a3%e1%83%a4%e1%83%98-%e1%83%a1%e1%83%90%e1%83%ae%e1%83%94/"
-  },
-  {
-    "title": "ნატო გელაშვილი და ჭოხოები – Mono Hall Batumi",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-06",
-    "dateLabel": "6 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/nato-gelashvili-da-choxoebi-mono-hall/"
-  },
-  {
-    "title": "ZAMNA SOUNDSYSTEM by NOISE",
-    "cat": "კონცერტი",
-    "venue": "Tropicos Batumi",
-    "date": "2026-08-06",
-    "dateLabel": "6 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/zamna-soundsystem-by-noise/"
-  },
-  {
     "title": "კრისტინა არბაკაიტეს გრანდიოზული კონცერტი",
     "cat": "კონცერტი",
     "venue": "ჩოგბურთის კორტები",
@@ -78,6 +30,14 @@
     "date": "2026-08-07",
     "dateLabel": "7 აგვისტო",
     "url": "https://www.infobatumi.ge/events/pugachovas-hitebi/"
+  },
+  {
+    "title": "გიორგი ნაკაშიძე Live",
+    "cat": "კონცერტი",
+    "venue": "ტიციანი",
+    "date": "2026-08-07",
+    "dateLabel": "7 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/giorgi-nakashidze-live-titsiani/"
   },
   {
     "title": "DJ KATYA LIVINGSTON",
@@ -222,6 +182,14 @@
     "date": "2026-08-13",
     "dateLabel": "13 აგვისტო",
     "url": "https://www.infobatumi.ge/events/aluda-14/"
+  },
+  {
+    "title": "ყოველკვირეული მუსიკალური პაემანი",
+    "cat": "კონცერტი",
+    "venue": "გრილ თაუნი",
+    "date": "",
+    "dateLabel": "",
+    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
   },
   {
     "title": "BomFunk MC’s",
