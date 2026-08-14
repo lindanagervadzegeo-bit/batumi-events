@@ -16,30 +16,6 @@
     "url": "https://www.infobatumi.ge/events/citelquda-marionetuli-zgapari/"
   },
   {
-    "title": "ალუდა 14+",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-08-13",
-    "dateLabel": "13 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/aluda-14/"
-  },
-  {
-    "title": "ყოველკვირეული მუსიკალური პაემანი",
-    "cat": "კონცერტი",
-    "venue": "გრილ თაუნი",
-    "date": "",
-    "dateLabel": "",
-    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
-  },
-  {
-    "title": "BomFunk MC’s",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-13",
-    "dateLabel": "13 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/bomfunk-mcs-live-in-batumi/"
-  },
-  {
     "title": "Jan Blomqvist",
     "cat": "კონცერტი",
     "venue": "Iveria Beach",
@@ -158,6 +134,14 @@
     "date": "2026-08-20",
     "dateLabel": "20 აგვისტო",
     "url": "https://www.infobatumi.ge/events/vera-brezhneva-concert-batumi-2026/"
+  },
+  {
+    "title": "ყოველკვირეული მუსიკალური პაემანი",
+    "cat": "კონცერტი",
+    "venue": "გრილ თაუნი",
+    "date": "",
+    "dateLabel": "",
+    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
   },
   {
     "title": "მურო გაგოშიძე",
