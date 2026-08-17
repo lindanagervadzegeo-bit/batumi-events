@@ -16,30 +16,6 @@
     "url": "https://www.infobatumi.ge/events/citelquda-marionetuli-zgapari/"
   },
   {
-    "title": "ჯერ დაიხოცნენ - მერე იქორწინეს",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-08-16",
-    "dateLabel": "16 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/jer-daixocnen-mere-iqorcines/"
-  },
-  {
-    "title": "ONFAYA",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-08-16",
-    "dateLabel": "16 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/onfaya/"
-  },
-  {
-    "title": "Bedford Falls",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-16",
-    "dateLabel": "16 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/bedford-falls/"
-  },
-  {
     "title": "ფერადი ნოტები",
     "cat": "კონცერტი",
     "venue": "მუსიკალური ცენტრი",
@@ -48,12 +24,44 @@
     "url": "https://www.infobatumi.ge/events/feradi-notebi/"
   },
   {
+    "title": "MARICA",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-17",
+    "dateLabel": "17 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/vako-blix-morchi/"
+  },
+  {
+    "title": "Vakomey & Ucha",
+    "cat": "კონცერტი",
+    "venue": "Tropicos Batumi",
+    "date": "2026-08-17",
+    "dateLabel": "17 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/oxia-tropicos-batumi/"
+  },
+  {
     "title": "მურო გაგოშიძე & MMOVELAB",
     "cat": "თეატრი",
     "venue": "დრამატული თეატრი",
     "date": "2026-08-19",
     "dateLabel": "19 აგვისტო",
     "url": "https://www.infobatumi.ge/events/muro-gagoshidze-mmovelab/"
+  },
+  {
+    "title": "MANDAS",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-18",
+    "dateLabel": "18 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/emily-sai/"
+  },
+  {
+    "title": "ლელა წურწუმია & ჩვენი ბენდი – Mono Hall Batumi",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-18",
+    "dateLabel": "18 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/lela-tsurtsumia-da-chveni-bendi-mono-hall-batumi/"
   },
   {
     "title": "AGORIA – Tropicos Batumi",
@@ -104,6 +112,14 @@
     "url": "https://www.infobatumi.ge/events/muro-gagoshidze/"
   },
   {
+    "title": "ნატო გელაშვილი და ჭოხოები",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-20",
+    "dateLabel": "20 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/nato-gelashvili-da-choxoebi-mono-hall/"
+  },
+  {
     "title": "ბეატრიჩე ვენეცი და საქართველოს ვირტუოზები",
     "cat": "თეატრი",
     "venue": "დრამატული თეატრი",
@@ -120,6 +136,30 @@
     "url": "https://www.infobatumi.ge/events/12-saati-x-lorenzo-ragazini/"
   },
   {
+    "title": "REGGAEON",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-21",
+    "dateLabel": "21 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/reggaeon-at-geo-graphia/"
+  },
+  {
+    "title": "STEPHANE – Mono Hall Batumi",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-21",
+    "dateLabel": "21 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/stephane-mono-hall-batumi/"
+  },
+  {
+    "title": "Ibiza Records",
+    "cat": "კონცერტი",
+    "venue": "Tropicos Batumi",
+    "date": "2026-08-21",
+    "dateLabel": "21 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/ibiza-records/"
+  },
+  {
     "title": "კამპერ ფესტივალი “ბორიალა\"",
     "cat": "ფესტივალი",
     "venue": "მაჭახელას ხეობა",
@@ -134,6 +174,14 @@
     "date": "2026-08-23",
     "dateLabel": "23 აგვისტო",
     "url": "https://www.infobatumi.ge/events/batumis-whisky-festival-2026/"
+  },
+  {
+    "title": "DJ Soso Malania",
+    "cat": "კლუბი",
+    "venue": "ტიციანი",
+    "date": "2026-08-22",
+    "dateLabel": "22 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/dj-soso-malania/"
   },
   {
     "title": "Maceo Plex – Mono Hall Batumi",
@@ -160,6 +208,14 @@
     "url": "https://www.infobatumi.ge/events/stephan-bodzin/"
   },
   {
+    "title": "TAMADA",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-24",
+    "dateLabel": "24 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/kakhaberi-da-khanumebi/"
+  },
+  {
     "title": "CEELO GREEN",
     "cat": "კლუბი",
     "venue": "Mono Hall Batumi",
@@ -174,6 +230,22 @@
     "date": "2026-08-25",
     "dateLabel": "25 აგვისტო",
     "url": "https://www.infobatumi.ge/events/tango-operacione/"
+  },
+  {
+    "title": "ანსამბლი შვიდკაცა",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-28",
+    "dateLabel": "28 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/dato-gomarteli-geo-graphia/"
+  },
+  {
+    "title": "Batumi Anime Pop Culture Shika Fest",
+    "cat": "კონცერტი",
+    "venue": "ბათუმის ცირკი",
+    "date": "2026-08-30",
+    "dateLabel": "30 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/batumi-anime-pop-culture-shika-fest/"
   },
   {
     "title": "ანრი ჯოხაძის სოლო კონცერტი",
@@ -214,6 +286,22 @@
     "date": "2026-09-12",
     "dateLabel": "12 სექტემბერი",
     "url": "https://www.infobatumi.ge/events/tamar-gvertsitelis-solo-koncerti/"
+  },
+  {
+    "title": "ISU ახალგაზრდული გრან პრი ფიგურულ ციგურაობაში ბათუმი 2026",
+    "cat": "კონცერტი",
+    "venue": "ყინულის სასახლე",
+    "date": "2026-09-26",
+    "dateLabel": "26 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/isu-axalgazrduli-gran-pri-figurul-ciguraobashi-batumi-2026/"
+  },
+  {
+    "title": "თრიალეთის თასი 2026",
+    "cat": "კონცერტი",
+    "venue": "ყინულის სასახლე",
+    "date": "2026-10-03",
+    "dateLabel": "3 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/emilia-da-mociguraveebis-shou/"
   },
   {
     "title": "Nervy in Batumi",
