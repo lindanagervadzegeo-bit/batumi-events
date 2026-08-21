@@ -24,46 +24,6 @@
     "url": "https://www.infobatumi.ge/events/gamis-serenadebi-2026/"
   },
   {
-    "title": "ვერა ბრეჟნევას კონცერტი",
-    "cat": "კონცერტი",
-    "venue": "ჩოგბურთის კორტები",
-    "date": "2026-08-20",
-    "dateLabel": "20 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/vera-brezhneva-concert-batumi-2026/"
-  },
-  {
-    "title": "ყოველკვირეული მუსიკალური პაემანი",
-    "cat": "კონცერტი",
-    "venue": "გრილ თაუნი",
-    "date": "",
-    "dateLabel": "",
-    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
-  },
-  {
-    "title": "მურო გაგოშიძე",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-08-20",
-    "dateLabel": "20 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/muro-gagoshidze/"
-  },
-  {
-    "title": "ნატო გელაშვილი და ჭოხოები",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-20",
-    "dateLabel": "20 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/nato-gelashvili-da-choxoebi-mono-hall/"
-  },
-  {
-    "title": "MoBlack by NOISE",
-    "cat": "კონცერტი",
-    "venue": "Tropicos Batumi",
-    "date": "2026-08-20",
-    "dateLabel": "20 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/moblack-by-noise/"
-  },
-  {
     "title": "ბეატრიჩე ვენეცი და საქართველოს ვირტუოზები",
     "cat": "თეატრი",
     "venue": "დრამატული თეატრი",
@@ -214,6 +174,14 @@
     "date": "2026-08-26",
     "dateLabel": "26 აგვისტო",
     "url": "https://www.infobatumi.ge/events/mamaflex-mono-hall-batumi/"
+  },
+  {
+    "title": "ყოველკვირეული მუსიკალური პაემანი",
+    "cat": "კონცერტი",
+    "venue": "გრილ თაუნი",
+    "date": "",
+    "dateLabel": "",
+    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
   },
   {
     "title": "ნიაზ დიასამიძე 33ა – Mono Hall Batumi – სეზონის გახსნა",
