@@ -8,14 +8,6 @@
     "url": "https://www.infobatumi.ge/events/delfinebis-shou/"
   },
   {
-    "title": "“წითელქუდა” მარიონეტული ზღაპარი",
-    "cat": "თეატრი",
-    "venue": "თოჯინების თეატრი",
-    "date": "2026-08-30",
-    "dateLabel": "30 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/citelquda-marionetuli-zgapari/"
-  },
-  {
     "title": "ლიანა ისაკაძის სახელობის საერთაშორისო ფესტივალი „ღამის სერენადები“",
     "cat": "თეატრი",
     "venue": "დრამატული თეატრი",
@@ -24,36 +16,12 @@
     "url": "https://www.infobatumi.ge/events/gamis-serenadebi-2026/"
   },
   {
-    "title": "MAMAFLEX – Mono Hall Batumi",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-26",
-    "dateLabel": "26 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/mamaflex-mono-hall-batumi/"
-  },
-  {
-    "title": "ყოველკვირეული მუსიკალური პაემანი",
+    "title": "დუეტი ჯორჯია რესტორან ატლანტისში",
     "cat": "კონცერტი",
-    "venue": "გრილ თაუნი",
-    "date": "",
-    "dateLabel": "",
-    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
-  },
-  {
-    "title": "ნიაზ დიასამიძე 33ა – Mono Hall Batumi – სეზონის გახსნა",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-27",
-    "dateLabel": "27 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/niaz-diasamidze-33a-sezonis-gaxsna-mono-hall/"
-  },
-  {
-    "title": "YANAMASTE – Mono Hall Batumi",
-    "cat": "კლუბი",
-    "venue": "Mono Hall Batumi",
-    "date": "2026-08-27",
-    "dateLabel": "27 აგვისტო",
-    "url": "https://www.infobatumi.ge/events/yanamaste-mono-hall-batumi/"
+    "venue": "ატლანტისი",
+    "date": "2026-08-28",
+    "dateLabel": "28 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/dueti-jorjia-restoran-atlantisi/"
   },
   {
     "title": "ანსამბლი შვიდკაცა",
@@ -64,12 +32,52 @@
     "url": "https://www.infobatumi.ge/events/dato-gomarteli-geo-graphia/"
   },
   {
+    "title": "ნატო გელაშვილი და ჭოხოები",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-28",
+    "dateLabel": "28 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/nato-gelashvili-da-choxoebi-mono-hall/"
+  },
+  {
+    "title": "PEDRIK, QARCII & MAXIC and MORCHI",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-29",
+    "dateLabel": "29 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/pedrik-qarcii-maxic-and-morchi/"
+  },
+  {
+    "title": "MGZAVREBI – Mono Hall Batumi",
+    "cat": "კლუბი",
+    "venue": "Mono Hall Batumi",
+    "date": "2026-08-29",
+    "dateLabel": "29 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/mgzavrebi-mono-hall-batumi/"
+  },
+  {
+    "title": "MOSSEL",
+    "cat": "კონცერტი",
+    "venue": "Tropicos Batumi",
+    "date": "2026-08-29",
+    "dateLabel": "29 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/mossel/"
+  },
+  {
     "title": "Batumi Anime Pop Culture Shika Fest",
     "cat": "კონცერტი",
     "venue": "ბათუმის ცირკი",
     "date": "2026-08-30",
     "dateLabel": "30 აგვისტო",
     "url": "https://www.infobatumi.ge/events/batumi-anime-pop-culture-shika-fest/"
+  },
+  {
+    "title": "“წითელქუდა” მარიონეტული ზღაპარი",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-08-30",
+    "dateLabel": "30 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/citelquda-marionetuli-zgapari/"
   },
   {
     "title": "ანრი ჯოხაძის სოლო კონცერტი",
@@ -80,6 +88,14 @@
     "url": "https://www.infobatumi.ge/events/anri-jokhadzis-solo-koncerti/"
   },
   {
+    "title": "IV დასი",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-08-31",
+    "dateLabel": "31 აგვისტო",
+    "url": "https://www.infobatumi.ge/events/iv-dasi/"
+  },
+  {
     "title": "ფსოი კოროლენკო",
     "cat": "კონცერტი",
     "venue": "რესტორანი კულტურა",
@@ -88,12 +104,36 @@
     "url": "https://www.infobatumi.ge/events/fsoi-korolenko/"
   },
   {
+    "title": "ARKANI",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-09-01",
+    "dateLabel": "1 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/arkani/"
+  },
+  {
     "title": "სიტყვა შეგონებანი",
     "cat": "თეატრი",
     "venue": "დრამატული თეატრი",
     "date": "2026-09-03",
     "dateLabel": "3 სექტემბერი",
     "url": "https://www.infobatumi.ge/events/sitkva-shegonebani/"
+  },
+  {
+    "title": "ყოველკვირეული მუსიკალური პაემანი",
+    "cat": "კონცერტი",
+    "venue": "გრილ თაუნი",
+    "date": "",
+    "dateLabel": "",
+    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
+  },
+  {
+    "title": "ქართული დღე გეოგრაფიაში",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-09-04",
+    "dateLabel": "4 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/qartuli-dge-geographia/"
   },
   {
     "title": "გემოფესტი",
@@ -134,6 +174,14 @@
     "date": "2026-10-03",
     "dateLabel": "3 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/emilia-da-mociguraveebis-shou/"
+  },
+  {
+    "title": "The Sound of Time",
+    "cat": "თეატრი",
+    "venue": "საზაფხულო თეატრი",
+    "date": "2026-10-24",
+    "dateLabel": "24 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/the-sound-of-time/"
   },
   {
     "title": "Nervy in Batumi",
