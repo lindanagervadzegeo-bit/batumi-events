@@ -8,14 +8,6 @@
     "url": "https://www.infobatumi.ge/events/gamis-serenadebi-2026/"
   },
   {
-    "title": "ყოველკვირეული მუსიკალური პაემანი",
-    "cat": "კონცერტი",
-    "venue": "გრილ თაუნი",
-    "date": "",
-    "dateLabel": "",
-    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
-  },
-  {
     "title": "”სხვანაირი” - მარიონეტული ამბავი",
     "cat": "თეატრი",
     "venue": "ბათუმის მარიონეტების თეატრი",
@@ -30,6 +22,14 @@
     "date": "",
     "dateLabel": "5 სექტემბრიდან - 6 სექტემბრამდე",
     "url": "https://www.infobatumi.ge/events/gemofest-batumi-2026/"
+  },
+  {
+    "title": "ყოველკვირეული მუსიკალური პაემანი",
+    "cat": "კონცერტი",
+    "venue": "გრილ თაუნი",
+    "date": "",
+    "dateLabel": "",
+    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
   },
   {
     "title": "შავი ზღვის ჯაზ ფესტივალი 2026",
@@ -70,14 +70,6 @@
     "date": "2026-08-09",
     "dateLabel": "9 აგვისტო",
     "url": "https://batumievents.com/Event/1266/"
-  },
-  {
-    "title": "სიტყვა შეგონებანი",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-09-03",
-    "dateLabel": "3 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/sitkva-shegonebani/"
   },
   {
     "title": "ქართული დღე გეოგრაფიაში",

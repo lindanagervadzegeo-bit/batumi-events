@@ -8,22 +8,6 @@
     "url": "https://www.infobatumi.ge/events/gamis-serenadebi-2026/"
   },
   {
-    "title": "სიტყვა შეგონებანი",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-09-03",
-    "dateLabel": "3 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/sitkva-shegonebani/"
-  },
-  {
-    "title": "ყოველკვირეული მუსიკალური პაემანი",
-    "cat": "კონცერტი",
-    "venue": "გრილ თაუნი",
-    "date": "",
-    "dateLabel": "",
-    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
-  },
-  {
     "title": "”სხვანაირი” - მარიონეტული ამბავი",
     "cat": "თეატრი",
     "venue": "ბათუმის მარიონეტების თეატრი",
@@ -46,6 +30,14 @@
     "date": "",
     "dateLabel": "5 სექტემბრიდან - 6 სექტემბრამდე",
     "url": "https://www.infobatumi.ge/events/gemofest-batumi-2026/"
+  },
+  {
+    "title": "ყოველკვირეული მუსიკალური პაემანი",
+    "cat": "კონცერტი",
+    "venue": "გრილ თაუნი",
+    "date": "",
+    "dateLabel": "",
+    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
   },
   {
     "title": "“წითელქუდა” მარიონეტული ზღაპარი",
