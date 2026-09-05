@@ -8,28 +8,20 @@
     "url": "https://www.infobatumi.ge/events/gamis-serenadebi-2026/"
   },
   {
-    "title": "”სხვანაირი” - მარიონეტული ამბავი",
-    "cat": "თეატრი",
-    "venue": "ბათუმის მარიონეტების თეატრი",
-    "date": "",
-    "dateLabel": "4 და",
-    "url": "https://www.infobatumi.ge/events/teatris-gaxsnis-ceremonia-da-premiera-sxvanairi/"
-  },
-  {
-    "title": "ქართული დღე გეოგრაფიაში",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-09-04",
-    "dateLabel": "4 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/qartuli-dge-geographia/"
-  },
-  {
     "title": "გემოფესტი",
     "cat": "კონცერტი",
     "venue": "კოლონადებთან",
     "date": "",
     "dateLabel": "5 სექტემბრიდან - 6 სექტემბრამდე",
     "url": "https://www.infobatumi.ge/events/gemofest-batumi-2026/"
+  },
+  {
+    "title": "”სხვანაირი” - მარიონეტული ამბავი",
+    "cat": "თეატრი",
+    "venue": "ბათუმის მარიონეტების თეატრი",
+    "date": "",
+    "dateLabel": "4 და",
+    "url": "https://www.infobatumi.ge/events/teatris-gaxsnis-ceremonia-da-premiera-sxvanairi/"
   },
   {
     "title": "ყოველკვირეული მუსიკალური პაემანი",
