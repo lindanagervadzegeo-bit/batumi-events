@@ -16,6 +16,22 @@
     "url": "https://www.infobatumi.ge/events/teatris-gaxsnis-ceremonia-da-premiera-sxvanairi/"
   },
   {
+    "title": "დინამო ბათუმი - იბერია",
+    "cat": "კონცერტი",
+    "venue": "აჭარაბეთ არენა",
+    "date": "2026-09-09",
+    "dateLabel": "9 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/dinamo-batumi-iberia/"
+  },
+  {
+    "title": "TIGINA",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-09-09",
+    "dateLabel": "9 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/tigina/"
+  },
+  {
     "title": "“ჯაზში არა მხოლოდ გოგოები“ ბრუნდებიან",
     "cat": "კონცერტი",
     "venue": "რესტორანი კულტურა",
@@ -30,6 +46,14 @@
     "date": "",
     "dateLabel": "",
     "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
+  },
+  {
+    "title": "ARKANI B2B SAKO",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-09-11",
+    "dateLabel": "11 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/arkani/"
   },
   {
     "title": "“წითელქუდა” მარიონეტული ზღაპარი",
@@ -48,12 +72,52 @@
     "url": "https://www.infobatumi.ge/events/tamar-gvertsitelis-solo-koncerti/"
   },
   {
+    "title": "ჯგუფი “არა”",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-09-12",
+    "dateLabel": "12 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/jgufi-ara/"
+  },
+  {
+    "title": "Kipo & Guga Khelaia",
+    "cat": "კონცერტი",
+    "venue": "Iveria Beach",
+    "date": "2026-09-12",
+    "dateLabel": "12 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/kipo-guga-khelaia/"
+  },
+  {
+    "title": "ყვავილები სკოლისთვის!",
+    "cat": "კონცერტი",
+    "venue": "Le Méridien Batumi",
+    "date": "2026-09-14",
+    "dateLabel": "14 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/kvavilebi-skolistvis/"
+  },
+  {
     "title": "შოპენიდან პიაცოლამდე",
     "cat": "თეატრი",
     "venue": "დრამატული თეატრი",
     "date": "2026-09-15",
     "dateLabel": "15 სექტემბერი",
     "url": "https://www.infobatumi.ge/events/shopenidan-piacolamde/"
+  },
+  {
+    "title": "ლაშა ღლონტი - რესტორან ატლანტისში!",
+    "cat": "კონცერტი",
+    "venue": "ატლანტისი",
+    "date": "2026-09-17",
+    "dateLabel": "17 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/lasha-glonti-atlantis-2026/"
+  },
+  {
+    "title": "ხანუმა",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-09-18",
+    "dateLabel": "18 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/khanuma-2/"
   },
   {
     "title": "ISU ახალგაზრდული გრან პრი ფიგურულ ციგურაობაში ბათუმი 2026",
@@ -94,6 +158,22 @@
     "date": "2026-11-21",
     "dateLabel": "21 ნოემბერი",
     "url": "https://www.infobatumi.ge/events/nervy-in-batumi/"
+  },
+  {
+    "title": "ღამის შოუს ბენდი",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-11-13",
+    "dateLabel": "13 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/gamis-shous-bendi/"
+  },
+  {
+    "title": "ანსამბლი \"ფორტე\"",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-12-03",
+    "dateLabel": "3 დეკემბერი",
+    "url": "https://www.infobatumi.ge/events/ansambli-forte/"
   },
   {
     "title": "KASTA",
