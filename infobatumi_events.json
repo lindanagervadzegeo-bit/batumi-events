@@ -8,22 +8,6 @@
     "url": "https://www.infobatumi.ge/events/gamis-serenadebi-2026/"
   },
   {
-    "title": "“ჯაზში არა მხოლოდ გოგოები“ ბრუნდებიან",
-    "cat": "კონცერტი",
-    "venue": "რესტორანი კულტურა",
-    "date": "2026-09-10",
-    "dateLabel": "10 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/jazshi-ara-mxolod-gogoebi-brundebian-kultura/"
-  },
-  {
-    "title": "ყოველკვირეული მუსიკალური პაემანი",
-    "cat": "კონცერტი",
-    "venue": "გრილ თაუნი",
-    "date": "",
-    "dateLabel": "",
-    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
-  },
-  {
     "title": "ARKANI B2B SAKO",
     "cat": "კონცერტი",
     "venue": "GEO.GRAPHIA",
@@ -78,6 +62,14 @@
     "date": "2026-09-15",
     "dateLabel": "15 სექტემბერი",
     "url": "https://www.infobatumi.ge/events/shopenidan-piacolamde/"
+  },
+  {
+    "title": "ყოველკვირეული მუსიკალური პაემანი",
+    "cat": "კონცერტი",
+    "venue": "გრილ თაუნი",
+    "date": "",
+    "dateLabel": "",
+    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
   },
   {
     "title": "ლაშა ღლონტი - რესტორან ატლანტისში!",
