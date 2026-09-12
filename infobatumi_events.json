@@ -8,14 +8,6 @@
     "url": "https://www.infobatumi.ge/events/gamis-serenadebi-2026/"
   },
   {
-    "title": "ARKANI B2B SAKO",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-09-11",
-    "dateLabel": "11 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/arkani/"
-  },
-  {
     "title": "“წითელქუდა” მარიონეტული ზღაპარი",
     "cat": "თეატრი",
     "venue": "თოჯინების თეატრი",
@@ -88,6 +80,14 @@
     "url": "https://www.infobatumi.ge/events/khanuma-2/"
   },
   {
+    "title": "ჯგუფი გამოუვალი მდგომარეობა",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-09-19",
+    "dateLabel": "19 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/jgufi-gamouvali-mdgomareoba-geo-graphia/"
+  },
+  {
     "title": "ISU ახალგაზრდული გრან პრი ფიგურულ ციგურაობაში ბათუმი 2026",
     "cat": "კონცერტი",
     "venue": "ყინულის სასახლე",
@@ -110,6 +110,14 @@
     "date": "2026-10-02",
     "dateLabel": "2 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/sansara-kultura/"
+  },
+  {
+    "title": "LEXSENI",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-10-02",
+    "dateLabel": "2 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/qartuli-dge-geographia/"
   },
   {
     "title": "The Sound of Time",

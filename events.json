@@ -56,14 +56,6 @@
     "url": "https://batumievents.com/Event/1266/"
   },
   {
-    "title": "ARKANI B2B SAKO",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-09-11",
-    "dateLabel": "11 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/arkani/"
-  },
-  {
     "title": "თამარ გვერდწითელის სოლო კონცერტი ბენდთან ერთად",
     "cat": "კონცერტი",
     "venue": "მუსიკალური ცენტრი",
@@ -120,6 +112,14 @@
     "url": "https://www.infobatumi.ge/events/khanuma-2/"
   },
   {
+    "title": "ჯგუფი გამოუვალი მდგომარეობა",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-09-19",
+    "dateLabel": "19 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/jgufi-gamouvali-mdgomareoba-geo-graphia/"
+  },
+  {
     "title": "“წითელქუდა” მარიონეტული ზღაპარი",
     "cat": "თეატრი",
     "venue": "თოჯინების თეატრი",
@@ -142,6 +142,14 @@
     "date": "2026-10-02",
     "dateLabel": "2 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/sansara-kultura/"
+  },
+  {
+    "title": "LEXSENI",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-10-02",
+    "dateLabel": "2 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/qartuli-dge-geographia/"
   },
   {
     "title": "თრიალეთის თასი 2026",
