@@ -56,30 +56,6 @@
     "url": "https://batumievents.com/Event/1266/"
   },
   {
-    "title": "თამარ გვერდწითელის სოლო კონცერტი ბენდთან ერთად",
-    "cat": "კონცერტი",
-    "venue": "მუსიკალური ცენტრი",
-    "date": "2026-09-12",
-    "dateLabel": "12 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/tamar-gvertsitelis-solo-koncerti/"
-  },
-  {
-    "title": "ჯგუფი “არა”",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-09-12",
-    "dateLabel": "12 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/jgufi-ara/"
-  },
-  {
-    "title": "Kipo & Guga Khelaia",
-    "cat": "კონცერტი",
-    "venue": "Iveria Beach",
-    "date": "2026-09-12",
-    "dateLabel": "12 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/kipo-guga-khelaia/"
-  },
-  {
     "title": "ყვავილები სკოლისთვის!",
     "cat": "კონცერტი",
     "venue": "Le Méridien Batumi",
@@ -104,12 +80,28 @@
     "url": "https://www.infobatumi.ge/events/lasha-glonti-atlantis-2026/"
   },
   {
+    "title": "ნინო ქათამაძე",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-09-17",
+    "dateLabel": "17 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/nino-katamadze-geo-graphia/"
+  },
+  {
     "title": "ხანუმა",
     "cat": "თეატრი",
     "venue": "დრამატული თეატრი",
     "date": "2026-09-18",
     "dateLabel": "18 სექტემბერი",
     "url": "https://www.infobatumi.ge/events/khanuma-2/"
+  },
+  {
+    "title": "ორმაგი ენერგია: DJ Twins Live",
+    "cat": "კლუბი",
+    "venue": "Karaoke Club Mario",
+    "date": "2026-09-18",
+    "dateLabel": "18 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/dj-twins-live/"
   },
   {
     "title": "ჯგუფი გამოუვალი მდგომარეობა",
