@@ -56,22 +56,6 @@
     "url": "https://batumievents.com/Event/1266/"
   },
   {
-    "title": "ლაშა ღლონტი - რესტორან ატლანტისში!",
-    "cat": "კონცერტი",
-    "venue": "ატლანტისი",
-    "date": "2026-09-17",
-    "dateLabel": "17 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/lasha-glonti-atlantis-2026/"
-  },
-  {
-    "title": "ნინო ქათამაძე",
-    "cat": "კონცერტი",
-    "venue": "GEO.GRAPHIA",
-    "date": "2026-09-17",
-    "dateLabel": "17 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/nino-katamadze-geo-graphia/"
-  },
-  {
     "title": "ხანუმა",
     "cat": "თეატრი",
     "venue": "დრამატული თეატრი",
@@ -112,6 +96,14 @@
     "url": "https://www.infobatumi.ge/events/isu-axalgazrduli-gran-pri-figurul-ciguraobashi-batumi-2026/"
   },
   {
+    "title": "საბი მარიოში",
+    "cat": "კლუბი",
+    "venue": "Karaoke Club Mario",
+    "date": "2026-09-26",
+    "dateLabel": "26 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/sabi-marioshi/"
+  },
+  {
     "title": "ჯგუფ Sansara-ს ფრონტმენი საშა გაგარინი",
     "cat": "კონცერტი",
     "venue": "რესტორანი კულტურა",
@@ -134,6 +126,14 @@
     "date": "2026-10-03",
     "dateLabel": "3 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/emilia-da-mociguraveebis-shou/"
+  },
+  {
+    "title": "LEONID PARFENOV",
+    "cat": "კონცერტი",
+    "venue": "ბათუმის ცირკი",
+    "date": "2026-10-06",
+    "dateLabel": "6 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/leonid-parfenov/"
   },
   {
     "title": "The Sound of Time",
