@@ -56,22 +56,6 @@
     "url": "https://batumievents.com/Event/1266/"
   },
   {
-    "title": "ხანუმა",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-09-18",
-    "dateLabel": "18 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/khanuma-2/"
-  },
-  {
-    "title": "ორმაგი ენერგია: DJ Twins Live",
-    "cat": "კლუბი",
-    "venue": "Karaoke Club Mario",
-    "date": "2026-09-18",
-    "dateLabel": "18 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/dj-twins-live/"
-  },
-  {
     "title": "ჯგუფი გამოუვალი მდგომარეობა",
     "cat": "კონცერტი",
     "venue": "GEO.GRAPHIA",
@@ -88,6 +72,22 @@
     "url": "https://www.infobatumi.ge/events/citelquda-marionetuli-zgapari/"
   },
   {
+    "title": "„კასტელო მარე - ზღვის შენახული ამბები“ ნიკა წულუკიძესთან ერთად",
+    "cat": "კონცერტი",
+    "venue": "Castello Mare Hotel & Wellness Resort",
+    "date": "2026-09-20",
+    "dateLabel": "20 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/zgvis-shenaxuli-ambebi-nika-tsulukidzestan-ertad/"
+  },
+  {
+    "title": "დინამო ბათუმი - ტორპედო",
+    "cat": "კონცერტი",
+    "venue": "აჭარაბეთ არენა",
+    "date": "2026-09-20",
+    "dateLabel": "20 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/dinamo-batumi-vs-torpedo/"
+  },
+  {
     "title": "ISU ახალგაზრდული გრან პრი ფიგურულ ციგურაობაში ბათუმი 2026",
     "cat": "კონცერტი",
     "venue": "ყინულის სასახლე",
@@ -102,6 +102,14 @@
     "date": "2026-09-26",
     "dateLabel": "26 სექტემბერი",
     "url": "https://www.infobatumi.ge/events/sabi-marioshi/"
+  },
+  {
+    "title": "ABBA ტრიბიუტი",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-09-28",
+    "dateLabel": "28 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/abba-tribute/"
   },
   {
     "title": "ჯგუფ Sansara-ს ფრონტმენი საშა გაგარინი",
