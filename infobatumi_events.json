@@ -1,19 +1,19 @@
 [
   {
-    "title": "ყოველკვირეული მუსიკალური პაემანი",
-    "cat": "კონცერტი",
-    "venue": "გრილ თაუნი",
-    "date": "",
-    "dateLabel": "",
-    "url": "https://www.infobatumi.ge/events/jazi-grill-town-shi/"
-  },
-  {
     "title": "ISU ახალგაზრდული გრან პრი ფიგურულ ციგურაობაში ბათუმი 2026",
     "cat": "კონცერტი",
     "venue": "ყინულის სასახლე",
     "date": "2026-09-26",
     "dateLabel": "26 სექტემბერი",
     "url": "https://www.infobatumi.ge/events/isu-axalgazrduli-gran-pri-figurul-ciguraobashi-batumi-2026/"
+  },
+  {
+    "title": "“წითელქუდა” მარიონეტული ზღაპარი",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-09-27",
+    "dateLabel": "27 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/citelquda-marionetuli-zgapari/"
   },
   {
     "title": "საბი მარიოში",
@@ -56,6 +56,14 @@
     "url": "https://www.infobatumi.ge/events/qartuli-dge-geographia/"
   },
   {
+    "title": "BRUCE BLANCHARD",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-10-02",
+    "dateLabel": "2 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/bruce-blanchard-at-geo-graphia/"
+  },
+  {
     "title": "LEONID PARFENOV",
     "cat": "კონცერტი",
     "venue": "ბათუმის ცირკი",
@@ -64,12 +72,60 @@
     "url": "https://www.infobatumi.ge/events/leonid-parfenov/"
   },
   {
+    "title": "ARKANI B2B SAKO",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-10-09",
+    "dateLabel": "9 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/arkani/"
+  },
+  {
     "title": "The Sound of Time",
     "cat": "თეატრი",
     "venue": "საზაფხულო თეატრი",
     "date": "2026-10-24",
     "dateLabel": "24 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/the-sound-of-time/"
+  },
+  {
+    "title": "დარისპანის გასაჭირი",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-10-25",
+    "dateLabel": "25 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/darispanis-gasachiri/"
+  },
+  {
+    "title": "სახლი ღრუბლებში",
+    "cat": "კონცერტი",
+    "venue": "მცირე სცენა",
+    "date": "2026-10-28",
+    "dateLabel": "28 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/sakhli-grublebshi/"
+  },
+  {
+    "title": "მატარებელი უკვე გავიდა",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-10-30",
+    "dateLabel": "30 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/matarebeli-ukve-gavida/"
+  },
+  {
+    "title": "ანე ფრანკის დღიური 12+",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-10-31",
+    "dateLabel": "31 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/ane-francos-dgiuri/"
+  },
+  {
+    "title": "უხერხემლო",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-08",
+    "dateLabel": "8 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/uxerxemlo/"
   },
   {
     "title": "Nervy in Batumi",
@@ -86,6 +142,22 @@
     "date": "2026-11-13",
     "dateLabel": "13 ნოემბერი",
     "url": "https://www.infobatumi.ge/events/gamis-shous-bendi/"
+  },
+  {
+    "title": "ჯაზში მხოლოდ ქალიშვილები არიან",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-20",
+    "dateLabel": "20 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/jazshi-mxolod-qalishvilebi-arian/"
+  },
+  {
+    "title": "მეტამორფოზა",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-28",
+    "dateLabel": "28 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/metamorfoza/"
   },
   {
     "title": "ანსამბლი \"ფორტე\"",
