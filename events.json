@@ -40,20 +40,12 @@
     "url": "https://batumievents.com/Event/1266/"
   },
   {
-    "title": "ISU ახალგაზრდული გრან პრი ფიგურულ ციგურაობაში ბათუმი 2026",
-    "cat": "კონცერტი",
-    "venue": "ყინულის სასახლე",
-    "date": "2026-09-26",
-    "dateLabel": "26 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/isu-axalgazrduli-gran-pri-figurul-ciguraobashi-batumi-2026/"
-  },
-  {
-    "title": "საბი მარიოში",
-    "cat": "კლუბი",
-    "venue": "Karaoke Club Mario",
-    "date": "2026-09-26",
-    "dateLabel": "26 სექტემბერი",
-    "url": "https://www.infobatumi.ge/events/sabi-marioshi/"
+    "title": "LOVE is…",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-09-27",
+    "dateLabel": "27 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/love-is/"
   },
   {
     "title": "“წითელქუდა” მარიონეტული ზღაპარი",
@@ -62,6 +54,14 @@
     "date": "2026-09-27",
     "dateLabel": "27 სექტემბერი",
     "url": "https://www.infobatumi.ge/events/citelquda-marionetuli-zgapari/"
+  },
+  {
+    "title": "VALENTINA B2B RANNITA",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-09-27",
+    "dateLabel": "27 სექტემბერი",
+    "url": "https://www.infobatumi.ge/events/valentina-b2b-rannita/"
   },
   {
     "title": "ABBA ტრიბიუტი",
@@ -104,6 +104,14 @@
     "url": "https://www.infobatumi.ge/events/emilia-da-mociguraveebis-shou/"
   },
   {
+    "title": "NIKOLSHOW",
+    "cat": "კონცერტი",
+    "venue": "რესტორანი ტრადიციული",
+    "date": "2026-10-03",
+    "dateLabel": "3 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/nikolshow-tradiciuli/"
+  },
+  {
     "title": "LEONID PARFENOV",
     "cat": "კონცერტი",
     "venue": "ბათუმის ცირკი",
@@ -118,6 +126,22 @@
     "date": "2026-10-09",
     "dateLabel": "9 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/arkani/"
+  },
+  {
+    "title": "ნუცა თოფურია",
+    "cat": "კონცერტი",
+    "venue": "რეტრო ჩაის სახლი",
+    "date": "2026-10-10",
+    "dateLabel": "10 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/nuca-topuria-retro/"
+  },
+  {
+    "title": "ANIRAM",
+    "cat": "კონცერტი",
+    "venue": "GEO.GRAPHIA",
+    "date": "2026-10-16",
+    "dateLabel": "16 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/aniram/"
   },
   {
     "title": "The Sound of Time",
@@ -168,12 +192,36 @@
     "url": "https://www.infobatumi.ge/events/uxerxemlo/"
   },
   {
+    "title": "გოდოს მოლოდინში 14+",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-12",
+    "dateLabel": "12 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/godos-molodinshi/"
+  },
+  {
     "title": "ღამის შოუს ბენდი",
     "cat": "კონცერტი",
     "venue": "მუსიკალური ცენტრი",
     "date": "2026-11-13",
     "dateLabel": "13 ნოემბერი",
     "url": "https://www.infobatumi.ge/events/gamis-shous-bendi/"
+  },
+  {
+    "title": "ვერაგობა და სიყვარული 14+",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-15",
+    "dateLabel": "15 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/veragoba-da-sikvaruli/"
+  },
+  {
+    "title": "ა -ს დღიურები 16+",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-18",
+    "dateLabel": "18 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/a-s-dgiurebi/"
   },
   {
     "title": "ჯაზში მხოლოდ ქალიშვილები არიან",
