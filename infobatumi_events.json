@@ -80,6 +80,14 @@
     "url": "https://www.infobatumi.ge/events/arkani/"
   },
   {
+    "title": "ძაღლი",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-10-10",
+    "dateLabel": "10 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/dzagli/"
+  },
+  {
     "title": "ნუცა თოფურია",
     "cat": "კონცერტი",
     "venue": "რეტრო ჩაის სახლი",
@@ -104,12 +112,28 @@
     "url": "https://www.infobatumi.ge/events/aniram/"
   },
   {
+    "title": "თოლია - ჯონათ ლივინგსტონი",
+    "cat": "საბავშვო",
+    "venue": "თოჯინების დიამეტრი",
+    "date": "2026-10-25",
+    "dateLabel": "25 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/tolia-jonat-livingstoni/"
+  },
+  {
     "title": "შშმ პირებს და მათ მშობლებს ვაჩუქოთ ერთი ბედნიერი დღე",
     "cat": "კონცერტი",
     "venue": "მუსიკალური ცენტრი",
     "date": "2026-10-07",
     "dateLabel": "7 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/shshm-pirebs-da-mshoblebs-vachuqot-bednieri-dge/"
+  },
+  {
+    "title": "სამი გოჭი",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-10-24",
+    "dateLabel": "24 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/sami-gochi/"
   },
   {
     "title": "The Sound of Time",
@@ -158,6 +182,14 @@
     "date": "2026-10-31",
     "dateLabel": "31 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/ane-francos-dgiuri/"
+  },
+  {
+    "title": "ოქროს გასაღების საიდუმლოება",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-11-01",
+    "dateLabel": "1 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/oqros-gasagebis-saidumloeba/"
   },
   {
     "title": "ა -ს დღიურები 16+",
