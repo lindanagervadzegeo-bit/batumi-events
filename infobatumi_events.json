@@ -1,13 +1,5 @@
 [
   {
-    "title": "LEONID PARFENOV",
-    "cat": "კონცერტი",
-    "venue": "ბათუმის ცირკი",
-    "date": "2026-10-06",
-    "dateLabel": "6 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/leonid-parfenov/"
-  },
-  {
     "title": "უღრანი ტყის ყაჩაღები",
     "cat": "თეატრი",
     "venue": "დრამატული თეატრი",
@@ -32,6 +24,14 @@
     "url": "https://www.infobatumi.ge/events/dzagli/"
   },
   {
+    "title": "“წითელქუდა” მარიონეტული ზღაპარი",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-10-25",
+    "dateLabel": "25 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/citelquda-marionetuli-zgapari/"
+  },
+  {
     "title": "ნუცა თოფურია",
     "cat": "კონცერტი",
     "venue": "რეტრო ჩაის სახლი",
@@ -40,12 +40,28 @@
     "url": "https://www.infobatumi.ge/events/nuca-topuria-retro/"
   },
   {
+    "title": "ბატის ჭუკი",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-10-11",
+    "dateLabel": "11 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/batis-chuki/"
+  },
+  {
     "title": "დინამო ბათუმი - დინამო თბილისი",
     "cat": "კონცერტი",
     "venue": "აჭარაბეთ არენა",
     "date": "2026-10-11",
     "dateLabel": "11 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/dinamo-batumi-vs-dinamo-tbilisi-2026/"
+  },
+  {
+    "title": "გიორგი ცხადაძე რესტორან ატლანტისში!",
+    "cat": "კონცერტი",
+    "venue": "ატლანტისი",
+    "date": "2026-10-14",
+    "dateLabel": "14 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/giorgi-tskhadadze-retro-veranda/"
   },
   {
     "title": "ANIRAM",
@@ -67,8 +83,8 @@
     "title": "შშმ პირებს და მათ მშობლებს ვაჩუქოთ ერთი ბედნიერი დღე",
     "cat": "კონცერტი",
     "venue": "მუსიკალური ცენტრი",
-    "date": "2026-10-07",
-    "dateLabel": "7 ოქტომბერი",
+    "date": "2026-10-17",
+    "dateLabel": "17 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/shshm-pirebs-da-mshoblebs-vachuqot-bednieri-dge/"
   },
   {
@@ -104,6 +120,14 @@
     "url": "https://www.infobatumi.ge/events/darispanis-gasachiri/"
   },
   {
+    "title": "LOVE is…",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-10-29",
+    "dateLabel": "29 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/love-is/"
+  },
+  {
     "title": "სახლი ღრუბლებში",
     "cat": "კონცერტი",
     "venue": "მცირე სცენა",
@@ -118,6 +142,14 @@
     "date": "2026-10-30",
     "dateLabel": "30 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/matarebeli-ukve-gavida/"
+  },
+  {
+    "title": "წითელქუდა",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-10-31",
+    "dateLabel": "31 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/witelquda/"
   },
   {
     "title": "ანე ფრანკის დღიური 12+",
@@ -142,6 +174,14 @@
     "date": "2026-11-18",
     "dateLabel": "18 ნოემბერი",
     "url": "https://www.infobatumi.ge/events/a-s-dgiurebi/"
+  },
+  {
+    "title": "SUPERNATURAL ბუნებრივი ღვინისა და მუსიკის ფესტივალი",
+    "cat": "ფესტივალი",
+    "venue": "სასტუმრო რუმსი",
+    "date": "2026-11-08",
+    "dateLabel": "8 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/supernatural-bunebrivi-gvinisa-da-musikis-festivali-2026/"
   },
   {
     "title": "უხერხემლო",
@@ -182,6 +222,14 @@
     "date": "2026-11-15",
     "dateLabel": "15 ნოემბერი",
     "url": "https://www.infobatumi.ge/events/veragoba-da-sikvaruli/"
+  },
+  {
+    "title": "„სასაცილო ფული”",
+    "cat": "კონცერტი",
+    "venue": "ბათუმი მოლი",
+    "date": "2026-11-15",
+    "dateLabel": "15 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/batumi-moli-9-clis/"
   },
   {
     "title": "ჯაზში მხოლოდ ქალიშვილები არიან",
