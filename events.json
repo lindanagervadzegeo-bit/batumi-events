@@ -1,5 +1,13 @@
 [
   {
+    "title": "ოთხი თაობა სცენაზე - ანსამბლი “არსიანი” 105 წლის იუბილე",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "",
+    "dateLabel": "05 წლის",
+    "url": "https://www.infobatumi.ge/events/ansambli-arsiani-105-wlis-iubile/"
+  },
+  {
     "title": "შავი ზღვის ჯაზ ფესტივალი 2026",
     "cat": "ფესტივალი",
     "venue": "Tennis Courts Batumi",
@@ -40,12 +48,12 @@
     "url": "https://batumievents.com/Event/1266/"
   },
   {
-    "title": "გიორგი ცხადაძე რესტორან ატლანტისში!",
+    "title": "ღვინით ხატვის მასტერკლასი რესტორან „ასკანელი ტერასაზე“",
     "cat": "კონცერტი",
-    "venue": "ატლანტისი",
-    "date": "2026-10-14",
-    "dateLabel": "14 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/giorgi-tskhadadze-retro-veranda/"
+    "venue": "ასკანელი ტერასა",
+    "date": "2026-10-16",
+    "dateLabel": "16 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/gvinit-xatvis-masterklasi-askaneli-terasa/"
   },
   {
     "title": "ANIRAM",
@@ -64,12 +72,28 @@
     "url": "https://www.infobatumi.ge/events/shshm-pirebs-da-mshoblebs-vachuqot-bednieri-dge/"
   },
   {
+    "title": "ნაცარქექია",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-10-18",
+    "dateLabel": "18 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/natsarkekia/"
+  },
+  {
     "title": "ებრუ - თურქული ტრადიციული ხატვა წყალზე",
     "cat": "კონცერტი",
     "venue": "BEEASY",
     "date": "2026-10-18",
     "dateLabel": "18 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/ebru/"
+  },
+  {
+    "title": "ნინო ხარატიშვილის “ჩემი საშინელი ბედნიერების წელიწადი “",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-10-21",
+    "dateLabel": "21 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/chemi-sashineli-bednierebis-celicadi/"
   },
   {
     "title": "სამი გოჭი",
@@ -152,12 +176,28 @@
     "url": "https://www.infobatumi.ge/events/matarebeli-ukve-gavida/"
   },
   {
+    "title": "90-იანების საღამო",
+    "cat": "კონცერტი",
+    "venue": "MOLEN batumi",
+    "date": "2026-10-30",
+    "dateLabel": "30 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/90-ianebis-sagamo/"
+  },
+  {
     "title": "წითელქუდა",
     "cat": "თეატრი",
     "venue": "თოჯინების თეატრი",
     "date": "2026-10-31",
     "dateLabel": "31 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/witelquda/"
+  },
+  {
+    "title": "ნუშის ფანტელი",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-10-31",
+    "dateLabel": "31 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/nushis-fanteli/"
   },
   {
     "title": "ანე ფრანკის დღიური 12+",
@@ -248,12 +288,52 @@
     "url": "https://www.infobatumi.ge/events/nervy-in-batumi/"
   },
   {
+    "title": "ბათუმის სახელმწიფო ორკესტრი და ბათუმის სახელმწიფო კაპელა",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-11-21",
+    "dateLabel": "21 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/batumis-saxelmcifo-orkestri-da-batumis-saxelmcifo-kapela/"
+  },
+  {
+    "title": "უსუი ტოშიკის საფორტეპიანო საღამო",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-11-22",
+    "dateLabel": "22 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/usui-toshikis-safortepiano-sagamo/"
+  },
+  {
+    "title": "დოკუმენტური ფილმის ჩვენება “მარადიულნი: ყველაფრიზმი”",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-11-23",
+    "dateLabel": "23 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/dokumenturi-filmis-chveneba-maradiulni-kvelaferizmi/"
+  },
+  {
+    "title": "ფონდი SOS TALENTS გალა კონცერტი",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-11-24",
+    "dateLabel": "24 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/fondi-sos-talents-gala-koncerti/"
+  },
+  {
     "title": "მეტამორფოზა",
     "cat": "თეატრი",
     "venue": "დრამატული თეატრი",
     "date": "2026-11-28",
     "dateLabel": "28 ნოემბერი",
     "url": "https://www.infobatumi.ge/events/metamorfoza/"
+  },
+  {
+    "title": "რეისი LP 43-20",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-29",
+    "dateLabel": "29 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/reisi-lp-43-20-16/"
   },
   {
     "title": "ანსამბლი \"ფორტე\"",
