@@ -8,22 +8,6 @@
     "url": "https://www.infobatumi.ge/events/citelquda-marionetuli-zgapari/"
   },
   {
-    "title": "თოლია - ჯონათ ლივინგსტონი",
-    "cat": "საბავშვო",
-    "venue": "თოჯინების დიამეტრი",
-    "date": "2026-10-25",
-    "dateLabel": "25 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/tolia-jonat-livingstoni/"
-  },
-  {
-    "title": "შშმ პირებს და მათ მშობლებს ვაჩუქოთ ერთი ბედნიერი დღე",
-    "cat": "კონცერტი",
-    "venue": "მუსიკალური ცენტრი",
-    "date": "2026-10-17",
-    "dateLabel": "17 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/shshm-pirebs-da-mshoblebs-vachuqot-bednieri-dge/"
-  },
-  {
     "title": "ებრუ - თურქული ტრადიციული ხატვა წყალზე",
     "cat": "კონცერტი",
     "venue": "BEEASY",
@@ -78,6 +62,14 @@
     "date": "2026-10-25",
     "dateLabel": "25 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/darispanis-gasachiri/"
+  },
+  {
+    "title": "თოლია - ჯონათ ლივინგსტონი",
+    "cat": "საბავშვო",
+    "venue": "თოჯინების დიამეტრი",
+    "date": "2026-10-25",
+    "dateLabel": "25 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/tolia-jonat-livingstoni/"
   },
   {
     "title": "LOVE is…",
