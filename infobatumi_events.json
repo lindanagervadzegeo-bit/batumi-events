@@ -1,51 +1,11 @@
 [
   {
-    "title": "“წითელქუდა” მარიონეტული ზღაპარი",
-    "cat": "თეატრი",
-    "venue": "თოჯინების თეატრი",
+    "title": "თოლია - ჯონათ ლივინგსტონი",
+    "cat": "საბავშვო",
+    "venue": "თოჯინების დიამეტრი",
     "date": "2026-10-25",
     "dateLabel": "25 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/citelquda-marionetuli-zgapari/"
-  },
-  {
-    "title": "სამი გოჭი",
-    "cat": "თეატრი",
-    "venue": "თოჯინების თეატრი",
-    "date": "2026-10-24",
-    "dateLabel": "24 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/sami-gochi/"
-  },
-  {
-    "title": "იკებანა - იაპონური ტრადიციული ყვავილების ხელოვნება",
-    "cat": "კონცერტი",
-    "venue": "Beeasy",
-    "date": "2026-10-24",
-    "dateLabel": "24 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/ikebana/"
-  },
-  {
-    "title": "დინამო ბათუმი - სამგურალი",
-    "cat": "კონცერტი",
-    "venue": "აჭარაბეთ არენა",
-    "date": "2026-10-24",
-    "dateLabel": "24 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/dinamo-batumi-vs-dinamo-tbilisi-2026/"
-  },
-  {
-    "title": "The Sound of Time",
-    "cat": "თეატრი",
-    "venue": "საზაფხულო თეატრი",
-    "date": "2026-10-24",
-    "dateLabel": "24 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/the-sound-of-time/"
-  },
-  {
-    "title": "ბათუმის თასი – ჰოკეის თამაში",
-    "cat": "კონცერტი",
-    "venue": "ყინულის სასახლე",
-    "date": "2026-10-24",
-    "dateLabel": "24 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/isu-axalgazrduli-gran-pri-figurul-ciguraobashi-batumi-2026/"
+    "url": "https://www.infobatumi.ge/events/tolia-jonat-livingstoni/"
   },
   {
     "title": "დარისპანის გასაჭირი",
@@ -54,14 +14,6 @@
     "date": "2026-10-25",
     "dateLabel": "25 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/darispanis-gasachiri/"
-  },
-  {
-    "title": "თოლია - ჯონათ ლივინგსტონი",
-    "cat": "საბავშვო",
-    "venue": "თოჯინების დიამეტრი",
-    "date": "2026-10-25",
-    "dateLabel": "25 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/tolia-jonat-livingstoni/"
   },
   {
     "title": "LOVE is…",
