@@ -1,1 +1,226 @@
-[]
+[
+  {
+    "title": "მატარებელი უკვე გავიდა",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-10-30",
+    "dateLabel": "30 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/matarebeli-ukve-gavida/"
+  },
+  {
+    "title": "90-იანების საღამო",
+    "cat": "კონცერტი",
+    "venue": "MOLEN batumi",
+    "date": "2026-10-30",
+    "dateLabel": "30 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/90-ianebis-sagamo/"
+  },
+  {
+    "title": "წითელქუდა",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-10-31",
+    "dateLabel": "31 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/witelquda/"
+  },
+  {
+    "title": "ნუშის ფანტელი",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-10-31",
+    "dateLabel": "31 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/nushis-fanteli/"
+  },
+  {
+    "title": "ანე ფრანკის დღიური 12+",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-10-31",
+    "dateLabel": "31 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/ane-francos-dgiuri/"
+  },
+  {
+    "title": "ოქროს გასაღების საიდუმლოება",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-11-01",
+    "dateLabel": "1 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/oqros-gasagebis-saidumloeba/"
+  },
+  {
+    "title": "ა -ს დღიურები 16+",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-18",
+    "dateLabel": "18 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/a-s-dgiurebi/"
+  },
+  {
+    "title": "რეისი LP 43-20",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-29",
+    "dateLabel": "29 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/reisi-lp-43-20-16/"
+  },
+  {
+    "title": "SUPERNATURAL ბუნებრივი ღვინისა და მუსიკის ფესტივალი",
+    "cat": "ფესტივალი",
+    "venue": "სასტუმრო რუმსი",
+    "date": "2026-11-08",
+    "dateLabel": "8 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/supernatural-bunebrivi-gvinisa-da-musikis-festivali-2026/"
+  },
+  {
+    "title": "უხერხემლო",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-08",
+    "dateLabel": "8 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/uxerxemlo/"
+  },
+  {
+    "title": "ფერადი ნისლების სანაპირო",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-11-08",
+    "dateLabel": "8 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/feradi-nislebis-sanapiro/"
+  },
+  {
+    "title": "გოდოს მოლოდინში 14+",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-12",
+    "dateLabel": "12 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/godos-molodinshi/"
+  },
+  {
+    "title": "Nervy in Batumi",
+    "cat": "კონცერტი",
+    "venue": "ბათუმის ცირკი",
+    "date": "2026-11-21",
+    "dateLabel": "21 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/nervy-in-batumi/"
+  },
+  {
+    "title": "სახლი ღრუბლებში",
+    "cat": "კონცერტი",
+    "venue": "მცირე სცენა",
+    "date": "2026-10-28",
+    "dateLabel": "28 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/sakhli-grublebshi/"
+  },
+  {
+    "title": "ღამის შოუს ბენდი",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-11-13",
+    "dateLabel": "13 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/gamis-shous-bendi/"
+  },
+  {
+    "title": "ვერაგობა და სიყვარული 14+",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-15",
+    "dateLabel": "15 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/veragoba-da-sikvaruli/"
+  },
+  {
+    "title": "მოხერხებული ბაყაყი ჩიკო",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-11-15",
+    "dateLabel": "15 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/moxerxebuli-makaki-chiko/"
+  },
+  {
+    "title": "„სასაცილო ფული”",
+    "cat": "კონცერტი",
+    "venue": "ბათუმი მოლი",
+    "date": "2026-11-15",
+    "dateLabel": "15 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/batumi-moli-9-clis/"
+  },
+  {
+    "title": "ჯაზში მხოლოდ ქალიშვილები არიან",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-20",
+    "dateLabel": "20 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/jazshi-mxolod-qalishvilebi-arian/"
+  },
+  {
+    "title": "ბათუმის სახელმწიფო ორკესტრი და ბათუმის სახელმწიფო კაპელა",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-11-21",
+    "dateLabel": "21 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/batumis-saxelmcifo-orkestri-da-batumis-saxelmcifo-kapela/"
+  },
+  {
+    "title": "უსუი ტოშიკის საფორტეპიანო საღამო",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-11-22",
+    "dateLabel": "22 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/usui-toshikis-safortepiano-sagamo/"
+  },
+  {
+    "title": "დოკუმენტური ფილმის ჩვენება “მარადიულნი: ყველაფრიზმი”",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-11-23",
+    "dateLabel": "23 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/dokumenturi-filmis-chveneba-maradiulni-kvelaferizmi/"
+  },
+  {
+    "title": "ფონდი SOS TALENTS გალა კონცერტი",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-11-24",
+    "dateLabel": "24 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/fondi-sos-talents-gala-koncerti/"
+  },
+  {
+    "title": "ოთხი თაობა სცენაზე - ანსამბლი “არსიანი” 105 წლის იუბილე",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "",
+    "dateLabel": "05 წლის",
+    "url": "https://www.infobatumi.ge/events/ansambli-arsiani-105-wlis-iubile/"
+  },
+  {
+    "title": "მეტამორფოზა",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-28",
+    "dateLabel": "28 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/metamorfoza/"
+  },
+  {
+    "title": "ნაცარქექია",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-11-29",
+    "dateLabel": "29 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/natsarkekia/"
+  },
+  {
+    "title": "ანსამბლი \"ფორტე\"",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-12-03",
+    "dateLabel": "3 დეკემბერი",
+    "url": "https://www.infobatumi.ge/events/ansambli-forte/"
+  },
+  {
+    "title": "KASTA",
+    "cat": "კონცერტი",
+    "venue": "ბათუმის ცირკი",
+    "date": "2026-12-04",
+    "dateLabel": "4 დეკემბერი",
+    "url": "https://www.infobatumi.ge/events/kasta/"
+  }
+]
