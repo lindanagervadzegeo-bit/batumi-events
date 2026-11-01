@@ -1,19 +1,11 @@
 [
   {
-    "title": "წითელქუდა",
+    "title": "ოქროს გასაღების საიდუმლოება",
     "cat": "თეატრი",
     "venue": "თოჯინების თეატრი",
-    "date": "2026-10-31",
-    "dateLabel": "31 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/witelquda/"
-  },
-  {
-    "title": "ნუშის ფანტელი",
-    "cat": "კონცერტი",
-    "venue": "მუსიკალური ცენტრი",
-    "date": "2026-10-31",
-    "dateLabel": "31 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/nushis-fanteli/"
+    "date": "2026-11-01",
+    "dateLabel": "1 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/oqros-gasagebis-saidumloeba/"
   },
   {
     "title": "ანე ფრანკის დღიური 12+",
@@ -22,14 +14,6 @@
     "date": "2026-10-31",
     "dateLabel": "31 ოქტომბერი",
     "url": "https://www.infobatumi.ge/events/ane-francos-dgiuri/"
-  },
-  {
-    "title": "ოქროს გასაღების საიდუმლოება",
-    "cat": "თეატრი",
-    "venue": "თოჯინების თეატრი",
-    "date": "2026-11-01",
-    "dateLabel": "1 ნოემბერი",
-    "url": "https://www.infobatumi.ge/events/oqros-gasagebis-saidumloeba/"
   },
   {
     "title": "ა -ს დღიურები 16+",
