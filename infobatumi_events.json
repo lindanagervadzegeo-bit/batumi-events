@@ -1,21 +1,5 @@
 [
   {
-    "title": "ოქროს გასაღების საიდუმლოება",
-    "cat": "თეატრი",
-    "venue": "თოჯინების თეატრი",
-    "date": "2026-11-01",
-    "dateLabel": "1 ნოემბერი",
-    "url": "https://www.infobatumi.ge/events/oqros-gasagebis-saidumloeba/"
-  },
-  {
-    "title": "ანე ფრანკის დღიური 12+",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-10-31",
-    "dateLabel": "31 ოქტომბერი",
-    "url": "https://www.infobatumi.ge/events/ane-francos-dgiuri/"
-  },
-  {
     "title": "ა -ს დღიურები 16+",
     "cat": "თეატრი",
     "venue": "დრამატული თეატრი",
@@ -134,6 +118,14 @@
     "date": "2026-11-22",
     "dateLabel": "22 ნოემბერი",
     "url": "https://www.infobatumi.ge/events/usui-toshikis-safortepiano-sagamo/"
+  },
+  {
+    "title": "ანე ფრანკის დღიური 12+",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-10-31",
+    "dateLabel": "31 ოქტომბერი",
+    "url": "https://www.infobatumi.ge/events/ane-francos-dgiuri/"
   },
   {
     "title": "დოკუმენტური ფილმის ჩვენება “მარადიულნი: ყველაფრიზმი”",
