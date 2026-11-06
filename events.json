@@ -200,20 +200,20 @@
     "url": "https://www.infobatumi.ge/events/oqros-gasagebis-saidumloeba/"
   },
   {
-    "title": "რეისი LP 43-20",
-    "cat": "თეატრი",
-    "venue": "დრამატული თეატრი",
-    "date": "2026-11-29",
-    "dateLabel": "29 ნოემბერი",
-    "url": "https://www.infobatumi.ge/events/reisi-lp-43-20-16/"
-  },
-  {
     "title": "ნაცარქექია",
     "cat": "თეატრი",
     "venue": "თოჯინების თეატრი",
     "date": "2026-11-29",
     "dateLabel": "29 ნოემბერი",
     "url": "https://www.infobatumi.ge/events/natsarkekia/"
+  },
+  {
+    "title": "რეისი LP 43-20",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-29",
+    "dateLabel": "29 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/reisi-lp-43-20-16/"
   },
   {
     "title": "ანსამბლი \"ფორტე\"",
