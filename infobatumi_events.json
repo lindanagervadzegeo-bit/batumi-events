@@ -1,5 +1,13 @@
 [
   {
+    "title": "ARKANI მარიოში ბრუნდება!",
+    "cat": "კლუბი",
+    "venue": "Karaoke Club Mario",
+    "date": "",
+    "dateLabel": "",
+    "url": "https://www.infobatumi.ge/events/arkani-marioshi-brundeba/"
+  },
+  {
     "title": "SUPERNATURAL ბუნებრივი ღვინისა და მუსიკის ფესტივალი",
     "cat": "ფესტივალი",
     "venue": "სასტუმრო რუმსი",
@@ -14,6 +22,14 @@
     "date": "2026-11-08",
     "dateLabel": "8 ნოემბერი",
     "url": "https://www.infobatumi.ge/events/uxerxemlo/"
+  },
+  {
+    "title": "მანუ მურღულია კარაოკე მარიოში",
+    "cat": "კლუბი",
+    "venue": "Karaoke Club Mario",
+    "date": "2026-11-07",
+    "dateLabel": "7 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/manu-murghulia-karaoke-marioshi/"
   },
   {
     "title": "ფერადი ნისლების სანაპირო",
@@ -64,6 +80,14 @@
     "url": "https://www.infobatumi.ge/events/veragoba-da-sikvaruli/"
   },
   {
+    "title": "ბუ კარაოკე მარიოში",
+    "cat": "კლუბი",
+    "venue": "Karaoke Club Mario",
+    "date": "2026-11-14",
+    "dateLabel": "14 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/bu-karaoke-marioshi/"
+  },
+  {
     "title": "მოხერხებული ბაყაყი ჩიკო",
     "cat": "თეატრი",
     "venue": "თოჯინების თეატრი",
@@ -102,6 +126,14 @@
     "date": "2026-11-21",
     "dateLabel": "21 ნოემბერი",
     "url": "https://www.infobatumi.ge/events/batumis-saxelmcifo-orkestri-da-batumis-saxelmcifo-kapela/"
+  },
+  {
+    "title": "Oleg Kenzov კარაოკე მარიოში",
+    "cat": "კლუბი",
+    "venue": "Karaoke Club Mario",
+    "date": "2026-11-21",
+    "dateLabel": "21 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/oleg-kenzov-karaoke-marioshi/"
   },
   {
     "title": "უსუი ტოშიკის საფორტეპიანო საღამო",
@@ -160,6 +192,14 @@
     "url": "https://www.infobatumi.ge/events/oqros-gasagebis-saidumloeba/"
   },
   {
+    "title": "Gidayat x Kama კარაოკე მარიოში",
+    "cat": "კლუბი",
+    "venue": "Karaoke Club Mario",
+    "date": "2026-11-28",
+    "dateLabel": "28 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/gidayat-x-kama-karaoke-marioshi/"
+  },
+  {
     "title": "ნაცარქექია",
     "cat": "თეატრი",
     "venue": "თოჯინების თეატრი",
@@ -190,5 +230,13 @@
     "date": "2026-12-04",
     "dateLabel": "4 დეკემბერი",
     "url": "https://www.infobatumi.ge/events/kasta/"
+  },
+  {
+    "title": "ვიტალი იმერელის სოლო კონცერტი",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-12-18",
+    "dateLabel": "18 დეკემბერი",
+    "url": "https://www.infobatumi.ge/events/vitali-imerelis-solo-koncerti/"
   }
 ]
