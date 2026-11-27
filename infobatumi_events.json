@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "title": "ARKANI მარიოში ბრუნდება!",
+    "cat": "კლუბი",
+    "venue": "Karaoke Club Mario",
+    "date": "",
+    "dateLabel": "",
+    "url": "https://www.infobatumi.ge/events/arkani-marioshi-brundeba/"
+  },
+  {
+    "title": "მეტამორფოზა",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-28",
+    "dateLabel": "28 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/metamorfoza/"
+  },
+  {
+    "title": "ოქროს გასაღების საიდუმლოება",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-11-28",
+    "dateLabel": "28 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/oqros-gasagebis-saidumloeba/"
+  },
+  {
+    "title": "Gidayat x Kama კარაოკე მარიოში",
+    "cat": "კლუბი",
+    "venue": "Karaoke Club Mario",
+    "date": "2026-11-28",
+    "dateLabel": "28 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/gidayat-x-kama-karaoke-marioshi/"
+  },
+  {
+    "title": "ნაცარქექია",
+    "cat": "თეატრი",
+    "venue": "თოჯინების თეატრი",
+    "date": "2026-11-29",
+    "dateLabel": "29 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/natsarkekia/"
+  },
+  {
+    "title": "რეისი LP 43-20",
+    "cat": "თეატრი",
+    "venue": "დრამატული თეატრი",
+    "date": "2026-11-29",
+    "dateLabel": "29 ნოემბერი",
+    "url": "https://www.infobatumi.ge/events/reisi-lp-43-20-16/"
+  },
+  {
+    "title": "ანსამბლი \"ფორტე\"",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-12-03",
+    "dateLabel": "3 დეკემბერი",
+    "url": "https://www.infobatumi.ge/events/ansambli-forte/"
+  },
+  {
+    "title": "KASTA",
+    "cat": "კონცერტი",
+    "venue": "ბათუმის ცირკი",
+    "date": "2026-12-04",
+    "dateLabel": "4 დეკემბერი",
+    "url": "https://www.infobatumi.ge/events/kasta/"
+  },
+  {
+    "title": "ვიტალი იმერელის სოლო კონცერტი",
+    "cat": "კონცერტი",
+    "venue": "მუსიკალური ცენტრი",
+    "date": "2026-12-18",
+    "dateLabel": "18 დეკემბერი",
+    "url": "https://www.infobatumi.ge/events/vitali-imerelis-solo-koncerti/"
+  }
+]
